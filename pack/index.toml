@@ -16,6 +16,16 @@ hash = "ce5d0cd5986126c23dc35c89a6d2124751071693c034afc3799b4f633466997f"
 metafile = true
 
 [[files]]
+file = "mods/alchemancy.pw.toml"
+hash = "8a6d728ac01ea9e9ce4bda678695da94e607a49e4d9e8944ba6955bfe7e11519"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "b14f5b5f2139166e304a4544a8bd40453bfc190d9b16fb49f52909a7b880d533"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
@@ -31,8 +41,18 @@ hash = "9605764353450757f20e153abdcedf770b4affab703869724b17454d23a45039"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "b8446771b0d1d228cbc3034ef75e81e4e07627c74368624664acdf4daa9fbfba"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "eb995fc30ad291a46e2b22bee640b9a315c44d5a76ce6fab2e03cfbfb8b8c429"
+metafile = true
+
+[[files]]
+file = "mods/clifftree.pw.toml"
+hash = "c7ceaae4e41a455b1adc72a1d1c327a02ce4d608b9c974fae2b80198ec8b19c6"
 metafile = true
 
 [[files]]
@@ -58,6 +78,16 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "1d609f597d90c582a01f360cc143ba5c5cd5d62a7336d8d5fd02ca50637f52fb"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "7311050b0232214f32999a6eb3e75dc64de40ea1962bbb166f3e5499495db352"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "60231e01fc1a64f3f0b155738bf5f56e9cb0f84d930b04aac83858357c4deaaf"
 metafile = true
 
 [[files]]
@@ -131,6 +161,11 @@ hash = "c219a1ee2d9952f4d2d0de342cd1dd148a2c46ddca9eb71d3c5022f70e62edb9"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "da0e59784b011304af8e5d2363a774425a31acdfc63bf513a32b93b9a9cb67e0"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights-unofficial-neoforge.pw.toml"
 hash = "3003180f2f32aa8aea9bc786e935e0b224f509f0131df625090c12f528d8ddc7"
 metafile = true
@@ -161,8 +196,18 @@ hash = "1cabd3b6894c9ad18da3961c7ec44b994497d8f86bfefb9b42ebb52a2c460fd4"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "527d67c3be0a653c50cc2f992f0f764f13f6670aa1296f7d6c63dd1ea2a553ca"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "d69c07a914ac0a05354c66033c6f6635335e4f7576870e4a5cf31e8fb2fea819"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "87e3acd7d3cdda6d8c99f26dafd871ba6057b6ca54650b43e6b91939069a91e5"
 metafile = true
 
 [[files]]
@@ -178,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/particular-reforged.pw.toml"
 hash = "7e5d722a7ec0f37057bcc78feb55b9ebf8dd9c5892b60e002854c785bce4ada4"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "87fb28047d648087f2fe4891ddf9d3c394b9c5c29eaf4f3970fb7c32520e6fcf"
 metafile = true
 
 [[files]]
@@ -223,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/transmog.pw.toml"
+hash = "882158c17af560d7798e85bee9b34c4665e5b2497d677574b48ef8edecd82ade"
 metafile = true
 
 [[files]]
