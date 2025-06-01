@@ -1,17 +1,75 @@
+[flavor_groups.fog]
+name = "Fog"
+description = "Pretty Fog :D"
+side = "client"
+choices = ["fog_on", "fog_off"]
+
+[flavor_groups.aurae]
+name = "Aurae!"
+description = "More ambient effects"
+side = "client"
+choices = ["aurae_on", "aurae_off"]
+
+[flavor_groups.particle_rain]
+name = "Particle Rain"
+description = "Pretty Rain :D"
+side = "client"
+choices = ["particle_rain_on", "particle_rain_off"]
+
+[flavor_groups.particular]
+name = "Particular"
+description = "More visual effects"
+side = "client"
+choices = ["particular_on", "particular_off"]
+
+[flavor_groups.falling_leaves]
+name = "Falling Leaves"
+description = "Adds a neat little particle effect to leaf blocks"
+side = "client"
+choices = ["falling_leaves_on", "falling_leaves_off"]
+
+[flavor_groups.explosive_enhancement]
+name = "Explosive Enhancement"
+description = "Makes the explosion animation look cooler."
+side = "client"
+choices = ["explosive_enhancement_on", "explosive_enhancement_off"]
+
+[flavor_groups.dynamic_lights]
+name = "LambDynamicLights"
+description = "Dynamic lights for example holding torch in hand gives light"
+side = "client"
+choices = ["dynamic_lights_on", "dynamic_lights_off"]
+
+[flavor_groups.iris]
+name = "Iris"
+description = "Shaders!"
+side = "client"
+choices = ["iris_off", "iris_on"]
+
 [flavor_groups.sodium]
 name = "Sodium"
-description = "Installs Sodium"
+description = "Disable if it breaks things for you but it shouldnt"
 side = "client"
-[[flavor_groups.sodium.choices]]
-id = "sodium_on"
-name = "Yes"
-description = "Installs Sodium."
-[[flavor_groups.sodium.choices]]
-id = "sodium_off"
-name = "No"
-description = "Do not install Sodium."
+choices = ["sodium_off", "sodium_on"]
 
-
+[metafile.fog]
+flavors = "fog_on"
+[metafile.aurae]
+flavors = "aurae_on"
+[metafile.pretty-rain]
+flavors = "particle_rain_on"
+[metafile.particular-reforged]
+flavors = "particular_on"
+[metafile.explosive-enhancement-forge]
+flavors = "explosive_enhancement_on"
+[metafile.lambdynamiclights-unofficial-neoforge]
+flavors = "dynamic_lights_on"
+[metafile.iris]
+flavors = "iris_on"
+[metafile.iris-flw-compat]
+flavors = "iris_on"
+[metafile.geckoanimfix]
+flavors = "iris_on"
 [metafile.sodium]
 flavors = "sodium_on"
 [metafile.sodium-extra]

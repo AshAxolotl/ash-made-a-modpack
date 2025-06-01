@@ -16,6 +16,16 @@ hash = "ce5d0cd5986126c23dc35c89a6d2124751071693c034afc3799b4f633466997f"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/aurae.pw.toml"
+hash = "1491f3622bf53e701301596984b0315a93a6d25641785b7432e21bf625dfd224"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "9605764353450757f20e153abdcedf770b4affab703869724b17454d23a45039"
 metafile = true
@@ -28,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/cmds-runology.pw.toml"
 hash = "f756a16133f3d77b2db8b034d0fe3dc756af96960dfe2d632493b848cff3b67f"
+metafile = true
+
+[[files]]
+file = "mods/configuration.pw.toml"
+hash = "71fe5a1ce9b1c60a48fdca5f200b0d13d485a43a50efff7426cf3f6464c48398"
 metafile = true
 
 [[files]]
@@ -71,8 +86,28 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
+metafile = true
+
+[[files]]
+file = "mods/fallingleavesforge.pw.toml"
+hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
+metafile = true
+
+[[files]]
+file = "mods/fog.pw.toml"
+hash = "2154e3980c3701985223d695640eabab57b5fbb26fe23d8892a2e63c6cb43f87"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
+metafile = true
+
+[[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "f78c94f42ffaf5365f45b58f83545ced3dc9ae0cf075412e7710079e163eed28"
 metafile = true
 
 [[files]]
@@ -81,8 +116,23 @@ hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "95b38f324c4ca6ab3abd73fedd7111c5028bd28bfc01a8fb18b27604cbd8635b"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "c219a1ee2d9952f4d2d0de342cd1dd148a2c46ddca9eb71d3c5022f70e62edb9"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights-unofficial-neoforge.pw.toml"
+hash = "3003180f2f32aa8aea9bc786e935e0b224f509f0131df625090c12f528d8ddc7"
 metafile = true
 
 [[files]]
@@ -116,13 +166,28 @@ hash = "d69c07a914ac0a05354c66033c6f6635335e4f7576870e4a5cf31e8fb2fea819"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "741334c0b04ce1321a30ac548b4dd663670c2e1daa53ecf0d6308541c65f0c98"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
 metafile = true
 
 [[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "7e5d722a7ec0f37057bcc78feb55b9ebf8dd9c5892b60e002854c785bce4ada4"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
+metafile = true
+
+[[files]]
+file = "mods/pretty-rain.pw.toml"
+hash = "8319748b7c1a39462d159ed94da5c972b99958628c776be8d7c1e4c48fdaa5eb"
 metafile = true
 
 [[files]]
@@ -171,5 +236,10 @@ hash = "c07aa6df66dadeab9e45c38c31f4222158040e6643cdc62662a7878ee9e5ea0a"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "e2ab678518f876a978414ec1b9c88896d78dcc49ee7bfefa0acc165d5388c7be"
+metafile = true
+
+[[files]]
 file = "unsup.toml"
-hash = "66f9bb8f71d344a58a73697230c4f9ea28c460a9233d7e41c5fa2be000c25ebd"
+hash = "396c4986fe61b214d241cd10cb9629af19ef208cfc42bc804905c9b681602377"
