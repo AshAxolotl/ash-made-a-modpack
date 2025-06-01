@@ -14,3 +14,7 @@ description = "Do not install Sodium."
 
 [metafile.sodium]
 flavors = "sodium_on"
+[metafile.sodium-extra]
+flavors = "sodium_on"
+[metafile.reeses-sodium-options]
+flavors = "sodium_on"

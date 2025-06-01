@@ -1,13 +1,33 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "e5473d05c6e3d08c992cecbaa3cb66ed154655c0bfdbb90860b3e4f54a4623ec"
+metafile = true
+
+[[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "2392fac629717417a29744e66f001a494304309b7742cf0cf54368278d3bf5c7"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "ce5d0cd5986126c23dc35c89a6d2124751071693c034afc3799b4f633466997f"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "9605764353450757f20e153abdcedf770b4affab703869724b17454d23a45039"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "eb995fc30ad291a46e2b22bee640b9a315c44d5a76ce6fab2e03cfbfb8b8c429"
+metafile = true
+
+[[files]]
+file = "mods/cmds-runology.pw.toml"
+hash = "f756a16133f3d77b2db8b034d0fe3dc756af96960dfe2d632493b848cff3b67f"
 metafile = true
 
 [[files]]
@@ -21,8 +41,48 @@ hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "1d609f597d90c582a01f360cc143ba5c5cd5d62a7336d8d5fd02ca50637f52fb"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+metafile = true
+
+[[files]]
+file = "mods/data-essence.pw.toml"
+hash = "5ac5803641abca6ced001727e713f59b9cc091a435dda6013d545851c7ab34b9"
+metafile = true
+
+[[files]]
+file = "mods/databank.pw.toml"
+hash = "072e2d091e6f78b663989f88c2e75eb8aaf46c42fa713edd85fe3086caf17622"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "c219a1ee2d9952f4d2d0de342cd1dd148a2c46ddca9eb71d3c5022f70e62edb9"
 metafile = true
 
 [[files]]
@@ -31,13 +91,78 @@ hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
 metafile = true
 
 [[files]]
+file = "mods/libstellar.pw.toml"
+hash = "f9c1eb328b663f510f0926be04bad64befd41cd4dda4dcb1eb250564d0e8b9e6"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/lodestonelib.pw.toml"
+hash = "613b1be19a7b565fd8a30a3234611e73c2b4dcd739af6c502f7f5e8534e67af0"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+hash = "1cabd3b6894c9ad18da3961c7ec44b994497d8f86bfefb9b42ebb52a2c460fd4"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "d69c07a914ac0a05354c66033c6f6635335e4f7576870e4a5cf31e8fb2fea819"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
+metafile = true
+
+[[files]]
+file = "mods/raccoons-rabies.pw.toml"
+hash = "0be3dd7fe4d4733852cf3bda719b5ba74617ef90da99f1b5d1e52889d74f9f2c"
+metafile = true
+
+[[files]]
+file = "mods/random-access-mind.pw.toml"
+hash = "188e258b71f4aab3b7d4b64ad7164e2e5be435b7b9ddfb1c283165ce84d3a67b"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "4db24a7735d93a5d6f8aa7946c839bdc972925b679e5c5649a18f37aa89f08c1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/trickster-math-tricks.pw.toml"
+hash = "f43753eef08f7b2285a6d90d18aac15f89af6a6950ff2bd3adb4c7b7b40bb739"
 metafile = true
 
 [[files]]
@@ -47,4 +172,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "904147210a2c9f8d76128ff3a9afc32f0d9526a784cdd6d0855b61b448294508"
+hash = "66f9bb8f71d344a58a73697230c4f9ea28c460a9233d7e41c5fa2be000c25ebd"

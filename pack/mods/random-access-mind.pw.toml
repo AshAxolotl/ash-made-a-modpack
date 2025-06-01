@@ -1,0 +1,13 @@
+name = "Random Access Mind"
+filename = "ram-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/61AplBLa/versions/zxvm5GNG/ram-2.0.1.jar"
+hash-format = "sha512"
+hash = "7cc6aea1edae08e5ae359cd6225779865eb373a879b7b08b5664e972c3f3d87b3ac7245b244312ebaf12b38275f9eb87504bee7cbdcd6a12229155839135a9e0"
+
+[update]
+[update.modrinth]
+mod-id = "61AplBLa"
+version = "zxvm5GNG"

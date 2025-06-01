@@ -1,0 +1,13 @@
+name = "Databank"
+filename = "databank-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2Ct0NAxj/versions/LpkkExdy/databank-1.0.5.jar"
+hash-format = "sha512"
+hash = "c1ff4abe31b03a50275cf76ea88e6b5802bf106c19467c78128300540437285739749a4ec48d2c78a87635f4999cf3c20ab57e076a2e2274126ebfe02f9fad31"
+
+[update]
+[update.modrinth]
+mod-id = "2Ct0NAxj"
+version = "LpkkExdy"

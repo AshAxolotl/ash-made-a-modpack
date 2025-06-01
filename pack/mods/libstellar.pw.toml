@@ -1,0 +1,13 @@
+name = "libstellar"
+filename = "libstellar-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K8UTv5kn/versions/LqThOdkM/libstellar-2.0.2.jar"
+hash-format = "sha512"
+hash = "1d7af7f7a403d4fd08c7e04a3b24985ec36c5db29eae62c3220bdd3a5044739279b663f71ad7024552c07a0135b7ee7d83c255df62f9e1e0802e64ec9cceb50e"
+
+[update]
+[update.modrinth]
+mod-id = "K8UTv5kn"
+version = "LqThOdkM"
