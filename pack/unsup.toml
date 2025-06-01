@@ -1,0 +1,16 @@
+[flavor_groups.sodium]
+name = "Sodium"
+description = "Installs Sodium"
+side = "client"
+[[flavor_groups.sodium.choices]]
+id = "sodium_on"
+name = "Yes"
+description = "Installs Sodium."
+[[flavor_groups.sodium.choices]]
+id = "sodium_off"
+name = "No"
+description = "Do not install Sodium."
+
+
+[metafile.sodium]
+flavors = "sodium_on"

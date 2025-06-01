@@ -1,0 +1,17 @@
+name = "WowJongensKijkHetIsEenModpack"
+author = "AshAxolotl"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7c62b017002fa265c229feda78d2f7ef98bb09a11865eb0f2196795ffb35bf0c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.174"
+unsup = "1.1.4"
+
+[options]
+acceptable-game-versions = ["1.21", "1.21.0", "1.21.1"]
