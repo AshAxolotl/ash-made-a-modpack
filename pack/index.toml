@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "dc3575dab2673b765947da8a87c01464ea77af8fe355fe18579dce514b35be7a"
+hash = "a77830f11c321ef40ace0c3f9c3974e206dc3b788dfc9c767248152ccda7f53b"
 metafile = true
 
 [[files]]
@@ -573,11 +573,6 @@ metafile = true
 [[files]]
 file = "mods/where-is-it.pw.toml"
 hash = "081a3d6bd63e9326d4aa63d54c092038f23e63fed3456c87731ef4fbd21bcc40"
-metafile = true
-
-[[files]]
-file = "mods/wiretap.pw.toml"
-hash = "adfb22897b2a115d5ab72d7020dc0d41336c50012f20a7e3fba857e22c142782"
 metafile = true
 
 [[files]]
