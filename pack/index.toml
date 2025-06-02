@@ -62,6 +62,11 @@ hash = "2b6dce96496f6ae60bfba7fc52dc6ed59a3ff2c9aee5367a84315396bc1a2e80"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "dc3575dab2673b765947da8a87c01464ea77af8fe355fe18579dce514b35be7a"
+metafile = true
+
+[[files]]
 file = "mods/aurae.pw.toml"
 hash = "1491f3622bf53e701301596984b0315a93a6d25641785b7432e21bf625dfd224"
 metafile = true
@@ -157,6 +162,11 @@ hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
+metafile = true
+
+[[files]]
 file = "mods/data-essence.pw.toml"
 hash = "5ac5803641abca6ced001727e713f59b9cc091a435dda6013d545851c7ab34b9"
 metafile = true
@@ -169,6 +179,51 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "d92fc8263e986d682e6a207e434cbffc2844ea180e916553b280033d560d7c89"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
+hash = "3e82f7bc2a521721e30bc60bc9823502daf204646d3a9bf33ab2616591261568"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "72724de3861b2f041eb0b430e2771c2f5287b3b85ba918562e050712b5571b81"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "adaea34e552e64a406a78a3cbcbca8d529052f1a23c9160e9a96e9407c698f3c"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
+hash = "dc24e814f0794ed8cf8e16e6667736049e0763b4204369e07787559007cbcbbd"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "e73798f88e6e4fb817c102f64f57fcfd41f271aba703bed8e7b70759356cf246"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "872ab8c78193dd775eb707793b8edc528323632a7fe2930223513635c2fddefa"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "ae0e810f5d824dbf486bce1629ddf3e792529d78147575fd57b6be1a35ab2843"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
 
 [[files]]
@@ -194,6 +249,16 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/emote-tweaks.pw.toml"
+hash = "4295f77fcd254e1c55d04684f29c3e60d148bc8e5038f3f6d71228c2171a7050"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "44a4412c7b0ff261645ea9da8c00b1e46cfdb84407a5c991eb60b226b1cb3fa9"
 metafile = true
 
 [[files]]
@@ -253,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "bb0d0330cccf1eff2e97821d31a17a4448c0e1947b58aa2ec08e359d121b7e5b"
 metafile = true
 
 [[files]]
@@ -446,6 +516,11 @@ hash = "b8253b066948c11c5db757fc6e3a7b9e5d4039ab1aa1543132feed7bb660cad0"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/splinecart.pw.toml"
 hash = "66f3e982c29d4204afc8593f050f3fe3478f286b639e1404bbdb64bda3ad0406"
 metafile = true
@@ -453,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "fa83a43df0c7545b4c6d9f82f3c50fb6634c965aa742bab3aa626b7b705f09ac"
 metafile = true
 
 [[files]]
@@ -496,6 +576,11 @@ hash = "081a3d6bd63e9326d4aa63d54c092038f23e63fed3456c87731ef4fbd21bcc40"
 metafile = true
 
 [[files]]
+file = "mods/wiretap.pw.toml"
+hash = "adfb22897b2a115d5ab72d7020dc0d41336c50012f20a7e3fba857e22c142782"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "e2ab678518f876a978414ec1b9c88896d78dcc49ee7bfefa0acc165d5388c7be"
 metafile = true
@@ -506,8 +591,8 @@ hash = "4bb587c09a53f82dec620482b3badeee9d6e865902efcfc39139f906cc0b108f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ccc.zip"
-hash = "4a78c8af8a1810229fd955b656ec675ed99a30c780b666b92704a58d84af9371"
+file = "resourcepacks/ComputerCreate.zip"
+hash = "b9d9a43ebda95dd8b97c57e4c40bec595e79a4117719038fa2af092a5e805ef7"
 
 [[files]]
 file = "unsup.toml"
