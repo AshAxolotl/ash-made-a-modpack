@@ -901,6 +901,22 @@ file = "resources/pack_resources/assets/minecraft/textures/item/recovery_compass
 hash = "9148921149e2b30751cb1e65040ca4fd0b991ae82a8030275147374e42997c10"
 
 [[files]]
+file = "resources/pack_resources/data/create/recipe/refined_radiance_casing_log.json"
+hash = "0cc943f35ec61823f38f20c88683999ba2541c41ccd9ad2aed209ee0f643611f"
+
+[[files]]
+file = "resources/pack_resources/data/create/recipe/refined_radiance_casing_wood.json"
+hash = "73e62cf042cd49fc0b299a722b4f93fb078de19fbb973b389cbb3739baf530d5"
+
+[[files]]
+file = "resources/pack_resources/data/create/recipe/shadow_steel_casing_log.json"
+hash = "8fdca1307666d24f28741e4fbfeee4ce43d7632d09e6453e9efe7516a5b2337d"
+
+[[files]]
+file = "resources/pack_resources/data/create/recipe/shadow_steel_casing_wood.json"
+hash = "b107f2080d8e4702ebfcb996a03bc89811894e5377c909c4a773197269115daa"
+
+[[files]]
 file = "resources/pack_resources/data/custom/function/load.mcfunction"
 hash = "7777bcf83b5385ea085d5d096cf97b35291b3c208b6a07525914e2aaeeb62b4a"
 
@@ -915,6 +931,10 @@ hash = "c5d72413f383005826e47a7684737526c5f90e4b5391ca5abcf9a55483f45d2a"
 [[files]]
 file = "resources/pack_resources/data/custom/loot_table/map.json"
 hash = "77ae45db07a882bdf3bb0466811c3affd76a1b7f366713af5334c28288c42bcd"
+
+[[files]]
+file = "resources/pack_resources/data/custom/recipe/chromatic_compound.json"
+hash = "46aaa126fc67f73c23fae136c5cf8c6f32c3c73669eccdef9d02b202ca4b2a23"
 
 [[files]]
 file = "resources/pack_resources/data/custom/recipe/shulker_alchemancy.json"
@@ -962,4 +982,4 @@ hash = "a056bc8e3e51ac0f7cb084869ced48c1589c55728b2651d425e4937fb7eb3a3a"
 
 [[files]]
 file = "unsup.toml"
-hash = "10301d2e9e1e1f4fbee73cb392d48f52b0448874e8bd5b3c829527a351af2caf"
+hash = "63d0c3a30db465cee9abf3058c8e7110f36a5827623c783bab85a0f682a6a85b"
