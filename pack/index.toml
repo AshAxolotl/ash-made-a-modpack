@@ -761,6 +761,10 @@ file = "resourcepacks/ComputerCreate.zip"
 hash = "b9d9a43ebda95dd8b97c57e4c40bec595e79a4117719038fa2af092a5e805ef7"
 
 [[files]]
+file = "resources/CC Tweaked AutoVim.zip"
+hash = "b4ce2af64f023dca1a02e351542a550cb7f8c649590653aeb9e722a5474915d5"
+
+[[files]]
 file = "resources/Impossible Difficulty Resourcepack v1.1.zip"
 hash = "a085551a3a99ea98506a420ed37de8dc448f056066e476e47095ebfe76cbbbe0"
 
