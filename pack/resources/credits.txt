@@ -1,0 +1,69 @@
+CREDITS FOR IMPOSSIBLE DRAGON
+Created by McMakistein
+https://www.youtube.com/@McMakistein
+https://www.patreon.com/McMakistein
+https://twitter.com/mrmakistein
+___________________________________________
+
+Obsidian Tower Design by RobMJW
+https://www.youtube.com/channel/UCKTvYXdb-MrLlLoNAxcQd1Q
+
+Pixelart VFX by CreativeKind and ansimuz
+https://itch.io/profile/creativekind
+https://ansimuz.itch.io/
+
+Datapack created using MCBuild by FetchBot
+https://mcbuild.dev/
+
+Custom mobs and block animations created using AnimatedJava by SnaveSutit
+https://animated-java.dev/
+
+Dragon Staff inspired by Elkhiel
+https://modrinth.com/user/Elkhiel
+
+Help with Shaders from Onnowhere
+https://www.youtube.com/@Onnowhere
+
+Math Datapack Library by Gibbsly
+https://github.com/gibbsly/gm
+
+Playtesters
+-RobMJW
+-SilicatYT
+-temp_name
+-Robosatch
+-Prommerbua
+-kanokarob
+-FetchBot
+-SnaveSutit
+
+
+Sound Effects from https://freesound.org/
+
+Dragon roar by veroma -- https://freesound.org/s/169055/ -- License: Attribution 3.0
+Monster Growl by qubodup -- https://freesound.org/s/743336/ -- License: Attribution 4.0
+Magic Fire Impact by EminYILDIRIM -- https://freesound.org/s/562413/ -- License: Attribution 4.0
+Fire Magic Impact by EminYILDIRIM -- https://freesound.org/s/578605/ -- License: Attribution 4.0
+Energy Short Sword 3.wav by ejfortin -- https://freesound.org/s/49674/ -- License: Sampling+
+Dual Energy Daggers 1.wav by ejfortin -- https://freesound.org/s/49664/ -- License: Sampling+
+Portal_Continuous_Rumble.wav by zimbot -- https://freesound.org/s/122972/ -- License: Attribution 4.0
+port.wav by Sergenious -- https://freesound.org/s/55843/ -- License: Attribution 4.0
+Stretched Canvas Bass Drum Comp2.wav by Puniho -- https://freesound.org/s/116676/ -- License: Attribution 3.0
+Couch Hit.wav by MegaBlasterRecordings -- https://freesound.org/s/368640/ -- License: Attribution 3.0
+Ambience, Wind Chimes, A.wav by InspectorJ -- https://freesound.org/s/353501/ -- License: Attribution 4.0
+ambienta-soundtrack_crystal_airlines_c4-100bpm.wav by suonho -- https://freesound.org/s/56364/ -- License: Attribution 4.0
+Magical portal open by alanmcki -- https://freesound.org/s/401324/ -- License: Attribution 4.0
+Dragon Land by GaryQ -- https://freesound.org/s/141148/ -- License: Attribution 4.0
+Skyrim Heal Start by GaryQ -- https://freesound.org/s/140849/ -- License: Attribution 4.0
+Magic Speel - Sleeping spell 1.wav by OGsoundFX -- https://freesound.org/s/423144/ -- License: Attribution 4.0
+Fireball Cast 3 by LiamG_SFX -- https://freesound.org/s/334237/ -- License: Attribution 4.0
+Fire Ball by DWOBoyle -- https://freesound.org/s/136696/ -- License: Attribution 4.0
+ELEMENTS_FIRE_01_Burning-Room.wav by suonho -- https://freesound.org/s/17725/ -- License: Attribution 4.0
+Massive Laser (charge-up, less bass) by SilverIllusionist -- https://freesound.org/s/743005/ -- License: Attribution 4.0
+Energy Burst by SilverIllusionist -- https://freesound.org/s/668645/ -- License: Attribution 4.0
+Slow Spell (More Powerful) by SilverIllusionist -- https://freesound.org/s/732244/ -- License: Attribution 4.0
+FIREBurn_Campfire.Close.Long.Crackling.Flame roar.Squeack.Hiss.Artificial 1_EM by newlocknew -- https://freesound.org/s/730704/ -- License: Attribution 4.0
+Flame Ignition by hykenfreak -- https://freesound.org/s/331621/ -- License: Attribution 4.0
+Dragon Roar by qubodup -- https://freesound.org/s/221500/ -- License: Attribution 4.0
+bologna_asinelli_tower_collapse.aif by roccapl -- https://freesound.org/s/86322/ -- License: Attribution 4.0
+Cloth, Bedding, brush, sweep-015.wav by MattRuthSound -- https://freesound.org/s/561574/ -- License: Attribution 4.0

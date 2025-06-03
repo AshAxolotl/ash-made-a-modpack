@@ -13,7 +13,7 @@ death_storage_duration = -1
 	#If the corpse should lie on its face
 	lie_on_face = false
 	#If the corpse should wear the players equipment
-	show_equipment = true
+	show_equipment = false
 	#If the corpse should fall into the void
 	fall_into_void = false
 	#If the corpse should get removed when in lava
