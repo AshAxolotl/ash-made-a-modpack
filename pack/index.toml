@@ -5,6 +5,10 @@ file = "config/corpse-server.toml"
 hash = "1fdff5341c20be0c2171f7c9db03a257ed78556ad6a881ad9b7d1d4425d59215"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "73b3a2c48c4b6c9dae47d0943cfbb598d2286b0043d6c2b14e83cf497dafcd94"
+
+[[files]]
 file = "config/create_dragons_plus-server.toml"
 hash = "6d596816279b681222c23281242e89afc020cc89072769db4cff4fc069b7d2a2"
 
@@ -13,12 +17,40 @@ file = "config/creeperoverhaul.jsonc"
 hash = "4694e225a9a328245f0842e0f4a220c725da6ec6e2764a53744c97f7a7584eb7"
 
 [[files]]
+file = "config/default_files/config/emi.css"
+hash = "0e99731a929a1192efad96a96b2422f19aec835cd4def9febacaf91d85d0375d"
+
+[[files]]
+file = "config/default_files/config/emotecraft.json"
+hash = "e2f6d882eb6d60df68f062cf65c06732e91fffd45725bfd12e47f6f57a306216"
+
+[[files]]
+file = "config/default_files/config/emotecraft_emote_map.json"
+hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
+
+[[files]]
+file = "config/default_files/config/fog/config.json"
+hash = "40b5deea03174c6e26e2c58fc5b7d57bb65a261e3e0b5c89780536fec28c821c"
+
+[[files]]
+file = "config/default_files/config/whereisit.json5"
+hash = "290a81449e30dbe3b066400f199a909ae175eff74c52cc35ad817168c65b9dda"
+
+[[files]]
+file = "config/default_files/options.txt"
+hash = "46fd227e73f26780fec2ca65a26f13f8044ac42815464fbba65e3c081049cc3d"
+
+[[files]]
 file = "config/irons_spellbooks-server.toml"
 hash = "f8feafc4c637d50b60731fb51d8f19dd5d122e5f382f3849e87f89fcbf208a66"
 
 [[files]]
 file = "config/openloader/options.json"
 hash = "b5ba0c42a2d5aff3746372fc027261b9d1f1e05104cc97bd3a74893f1106fcf9"
+
+[[files]]
+file = "config/ribbits-neoforge-1_21_1.toml"
+hash = "f5c48a20d96e8cc0258b849546b460e7c503e443c422d4e417775258cb9f1da1"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
@@ -33,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/accessories.pw.toml"
 hash = "ce5d0cd5986126c23dc35c89a6d2124751071693c034afc3799b4f633466997f"
+metafile = true
+
+[[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "08f8c21e553fe134333ead574cac41030b73f85ad3a3f7701ec21312dc33b400"
 metafile = true
 
 [[files]]
@@ -72,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "a77830f11c321ef40ace0c3f9c3974e206dc3b788dfc9c767248152ccda7f53b"
+hash = "dc3575dab2673b765947da8a87c01464ea77af8fe355fe18579dce514b35be7a"
 metafile = true
 
 [[files]]
@@ -216,8 +253,8 @@ hash = "072e2d091e6f78b663989f88c2e75eb8aaf46c42fa713edd85fe3086caf17622"
 metafile = true
 
 [[files]]
-file = "mods/default-options.pw.toml"
-hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
+file = "mods/default-files.pw.toml"
+hash = "55078861f033521e0b31923e0ed415f44a48600718e806b0aeaac4bd3df6733c"
 metafile = true
 
 [[files]]
@@ -532,6 +569,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "82a5c30ed91d272ee1895376e0d2cf57504b3d9db4aba6547e19eaa344861ada"
 metafile = true
 
 [[files]]
