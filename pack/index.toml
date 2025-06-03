@@ -630,11 +630,6 @@ hash = "90956e69d35ea7658d5a674b68662f51b09ba11596877170e5c01b2aaa3dcd49"
 metafile = true
 
 [[files]]
-file = "mods/terrablender.pw.toml"
-hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
-metafile = true
-
-[[files]]
 file = "mods/thaumon.pw.toml"
 hash = "1f6514189ad1e70bd5ea8702d78d27f54e1d682d5644b0b9187e9830f7a8ac7b"
 metafile = true
@@ -687,4 +682,4 @@ hash = "45ea4c1f4396bef302de7e56484b0bd72b812a79d0796609ee4fa5d462dece4e"
 
 [[files]]
 file = "unsup.toml"
-hash = "396c4986fe61b214d241cd10cb9629af19ef208cfc42bc804905c9b681602377"
+hash = "10301d2e9e1e1f4fbee73cb392d48f52b0448874e8bd5b3c829527a351af2caf"
