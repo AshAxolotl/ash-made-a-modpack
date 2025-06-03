@@ -22,12 +22,6 @@ description = "More visual effects"
 side = "client"
 choices = ["particular_on", "particular_off"]
 
-[flavor_groups.falling_leaves]
-name = "Falling Leaves"
-description = "Adds a neat little particle effect to leaf blocks"
-side = "client"
-choices = ["falling_leaves_on", "falling_leaves_off"]
-
 [flavor_groups.explosive_enhancement]
 name = "Explosive Enhancement"
 description = "Makes the explosion animation look cooler."

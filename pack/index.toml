@@ -17,6 +17,10 @@ file = "config/irons_spellbooks-server.toml"
 hash = "f8feafc4c637d50b60731fb51d8f19dd5d122e5f382f3849e87f89fcbf208a66"
 
 [[files]]
+file = "config/openloader/options.json"
+hash = "b5ba0c42a2d5aff3746372fc027261b9d1f1e05104cc97bd3a74893f1106fcf9"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "e5473d05c6e3d08c992cecbaa3cb66ed154655c0bfdbb90860b3e4f54a4623ec"
 metafile = true
@@ -57,6 +61,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "f70d3b1ed66cce38bf23ab0933b63dbff163092d538586deb270911b5d9ad98b"
+metafile = true
+
+[[files]]
 file = "mods/artsandcrafts.pw.toml"
 hash = "2b6dce96496f6ae60bfba7fc52dc6ed59a3ff2c9aee5367a84315396bc1a2e80"
 metafile = true
@@ -79,6 +88,21 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-inspector.pw.toml"
 hash = "6d83e3f3500b53bc17d90c0356a0b257bcb900acb8108f84145bf15fd563f7b5"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "6cb44b274e41912c42a9a3ba9705b8862767298c3c27fb3a4c863295282c2fec"
+metafile = true
+
+[[files]]
+file = "mods/bundle-backportish.pw.toml"
+hash = "8a1905f735611d2b729daa6f3e11abd3c7c44132ae2552869714ff2429c4c6a1"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "5d320becaeb7d0c1be9a1eb095e0f8437a595626fab0c561d2e5abb1a448dc05"
 metafile = true
 
 [[files]]
@@ -122,6 +146,11 @@ hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "1d609f597d90c582a01f360cc143ba5c5cd5d62a7336d8d5fd02ca50637f52fb"
 metafile = true
@@ -134,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "48c96f96c87d8b4a4d74c5e1b60beb3adcdf9accd3c284e5cfc8ffc8aab9808b"
+metafile = true
+
+[[files]]
+file = "mods/create-cc-total-logistics.pw.toml"
+hash = "fc8642cda2b36c01a9e0d0707db61fcc6d9d601d89cbdeabfbb32f90ef7b4440"
 metafile = true
 
 [[files]]
@@ -272,11 +306,6 @@ hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
 metafile = true
 
 [[files]]
-file = "mods/fallingleavesforge.pw.toml"
-hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
-metafile = true
-
-[[files]]
 file = "mods/figura-0.1.5+1.21.1-neoforge-mc-tweaked.jar"
 hash = "b65e2ee83ce6d7f62786f82725ddaaeec919a6323fd9b1fd352cb585456dc0c6"
 
@@ -318,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
+metafile = true
+
+[[files]]
+file = "mods/horseman.pw.toml"
+hash = "a78e0195658761de35b3b2b1a5657c43d259495f82872b7f1e8686cfe30962d7"
 metafile = true
 
 [[files]]
@@ -366,6 +400,11 @@ hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights-unofficial-neoforge.pw.toml"
 hash = "3003180f2f32aa8aea9bc786e935e0b224f509f0131df625090c12f528d8ddc7"
 metafile = true
@@ -373,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/lavender.pw.toml"
 hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
+metafile = true
+
+[[files]]
+file = "mods/leaf-me-alone.pw.toml"
+hash = "443ec5c37984c9f0076b2059543f2113a43d1f029aaa9a5e20c59dfa804b965d"
 metafile = true
 
 [[files]]
@@ -388,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/lodestonelib.pw.toml"
 hash = "613b1be19a7b565fd8a30a3234611e73c2b4dcd739af6c502f7f5e8534e67af0"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
@@ -431,6 +480,16 @@ hash = "741334c0b04ce1321a30ac548b4dd663670c2e1daa53ecf0d6308541c65f0c98"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
 metafile = true
@@ -453,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/pretty-rain.pw.toml"
 hash = "8319748b7c1a39462d159ed94da5c972b99958628c776be8d7c1e4c48fdaa5eb"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
 metafile = true
 
 [[files]]
@@ -496,8 +560,23 @@ hash = "4db24a7735d93a5d6f8aa7946c839bdc972925b679e5c5649a18f37aa89f08c1"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "8d634f8aec598bda3a07d3cb3071d31e6fa6e56915f0214a421956872feddc33"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
+metafile = true
+
+[[files]]
+file = "mods/soaring-phantoms.pw.toml"
+hash = "00f57a405ee52be48daa550afdca63545107f5d2d51eb257a73b62c8563f35f9"
 metafile = true
 
 [[files]]
@@ -523,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/splinecart.pw.toml"
 hash = "66f3e982c29d4204afc8593f050f3fe3478f286b639e1404bbdb64bda3ad0406"
+metafile = true
+
+[[files]]
+file = "mods/spring-to-life-backport.pw.toml"
+hash = "fbce2666f8c1b208149ebbf315743f272505c4a52bf360fcdbd6e2f2c3a0ad3a"
 metafile = true
 
 [[files]]
@@ -588,6 +672,18 @@ metafile = true
 [[files]]
 file = "resourcepacks/ComputerCreate.zip"
 hash = "b9d9a43ebda95dd8b97c57e4c40bec595e79a4117719038fa2af092a5e805ef7"
+
+[[files]]
+file = "resources/pack_resources/data/minecraft/recipes/lodestone.json"
+hash = "a9d4a561d6505d59f198227e177e96d7bc107b80ac9451f6d24018d28b97d577"
+
+[[files]]
+file = "resources/pack_resources/data/minecraft/recipes/recovery_compass.json"
+hash = "6a7a5bd3d75bba423ffa5f6919f7c8b5e677da128f7d1c41e1ecfdb761f44a7a"
+
+[[files]]
+file = "resources/pack_resources/pack.mcmeta"
+hash = "45ea4c1f4396bef302de7e56484b0bd72b812a79d0796609ee4fa5d462dece4e"
 
 [[files]]
 file = "unsup.toml"
