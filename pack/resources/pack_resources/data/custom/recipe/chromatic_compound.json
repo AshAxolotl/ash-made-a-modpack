@@ -1,0 +1,15 @@
+{
+  "type": "alchemancy:forged_item",
+
+  "properties": [
+  ],
+
+  "catalyst": {
+    "item": "create:andesite_alloy"
+  },
+
+  "result": {
+    "count": 1,
+    "id": "create:chromatic_compound"
+  }
+}
