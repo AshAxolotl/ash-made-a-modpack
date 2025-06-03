@@ -985,5 +985,9 @@ file = "resources/pack_resources/pack.mcmeta"
 hash = "fbc62280a39900ec4a3c7e2dae656b6ee6662286348eca6527cc5fc6787d18a7"
 
 [[files]]
+file = "resources/pack_resources/test.txt"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
 file = "unsup.toml"
 hash = "1110ff2fcc0e8b3b491eba33029090d08b13061d7a680fee1ecdcda50dc03082"
