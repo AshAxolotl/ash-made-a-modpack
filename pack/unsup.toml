@@ -44,7 +44,7 @@ choices = ["iris_off", "iris_on"]
 name = "Sodium"
 description = "Disable if it breaks things for you but it shouldnt"
 side = "client"
-choices = ["sodium_off", "sodium_on"]
+choices = ["sodium_on", "sodium_off"]
 
 [metafile.fog]
 flavors = "fog_on"
