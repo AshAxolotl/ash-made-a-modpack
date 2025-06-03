@@ -222,7 +222,7 @@
 	/**
 	 * Where to position the right sidebar
 	 */
-	right-sidebar-align: left, top;
+	right-sidebar-align: right, top;
 
 	/**
 	 * Whether to render the header buttons and page count for the right sidebar
