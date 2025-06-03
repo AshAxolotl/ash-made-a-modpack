@@ -34,17 +34,19 @@ description = "Dynamic lights for example holding torch in hand gives light"
 side = "client"
 choices = ["dynamic_lights_on", "dynamic_lights_off"]
 
+[flavor_groups.iris]
+name = "Iris"
+description = "Shaders!"
+side = "client"
+choices = ["iris_off", "iris_on"]
+
 [flavor_groups.sodium]
 name = "Sodium"
 description = "Disable if it breaks things for you but it shouldnt"
 side = "client"
 choices = ["sodium_on", "sodium_off"]
 
-[flavor_groups.iris]
-name = "Iris"
-description = "Shaders!"
-side = "client"
-choices = ["iris_off", "iris_on"]
+
 
 
 
