@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:turtle_helmet"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:shulker_shell"
+    }
+  ]
+}
