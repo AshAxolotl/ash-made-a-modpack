@@ -966,23 +966,23 @@ hash = "6a7a5bd3d75bba423ffa5f6919f7c8b5e677da128f7d1c41e1ecfdb761f44a7a"
 
 [[files]]
 file = "resources/pack_resources/data/minecraft/tags/function/load.json"
-hash = "5e9400e986d78ffa9fb46cd0e72e92c2dfe36f63ac35c146ec4ec2209d352f37"
+hash = "3719a38f2790e63330d5f0b72070d3407e7fe23d92c2d4732edd7ef3f76f3116"
 
 [[files]]
 file = "resources/pack_resources/data/nova_structures/loot_table/chests/end_castle/vault_brigattine.json"
-hash = "18897621ae4932fc83fe86012178c227704c66e372a90d4aa967ea3ec5f9d5a8"
+hash = "24120475847f7616015b81d3ba7e88a6d944763538c96799e4e07d24e979ddee"
 
 [[files]]
 file = "resources/pack_resources/data/nova_structures/loot_table/chests/end_castle/vault_galleon.json"
-hash = "ea5bb5fe2390dc86bcdbedb039430db26137681b0da95751fce5bef85f060ecf"
+hash = "d228bece9995958c2f8a5436dcf567044703f2ccfb2ef5fd3e1880447822bbed"
 
 [[files]]
 file = "resources/pack_resources/data/nova_structures/loot_table/chests/end_castle/vault_slope.json"
-hash = "41dcd0cd749dd97cdd9ca1ab2fd5ad4c5e4481d616de3a3f5e5c5068d4ce1358"
+hash = "bd9ccc1be17e36ea98b188d79d12787daf991480991fab7624fab5428369bde7"
 
 [[files]]
 file = "resources/pack_resources/pack.mcmeta"
-hash = "fbc62280a39900ec4a3c7e2dae656b6ee6662286348eca6527cc5fc6787d18a7"
+hash = "c2e62879ea67c27d883c15494469ce9737a4ecf2b83c15572b247680a821464c"
 
 [[files]]
 file = "unsup.toml"
