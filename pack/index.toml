@@ -18,7 +18,7 @@ hash = "4694e225a9a328245f0842e0f4a220c725da6ec6e2764a53744c97f7a7584eb7"
 
 [[files]]
 file = "config/default_files/config/emi.css"
-hash = "0e99731a929a1192efad96a96b2422f19aec835cd4def9febacaf91d85d0375d"
+hash = "ba325ecbe291eb7543e9d24770d015e5a3918e6a407e2a14417319fa064dfa73"
 
 [[files]]
 file = "config/default_files/config/emotecraft.json"
@@ -35,6 +35,10 @@ hash = "40b5deea03174c6e26e2c58fc5b7d57bb65a261e3e0b5c89780536fec28c821c"
 [[files]]
 file = "config/default_files/config/whereisit.json5"
 hash = "290a81449e30dbe3b066400f199a909ae175eff74c52cc35ad817168c65b9dda"
+
+[[files]]
+file = "config/default_files/emi.json"
+hash = "7322ab16c964edbf807d1d9d3ad5308ab59d685b4635b54bd9a983c77b169c24"
 
 [[files]]
 file = "config/default_files/options.txt"
