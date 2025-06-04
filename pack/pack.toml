@@ -15,4 +15,4 @@ unsup = "1.1.4"
 
 [options]
 acceptable-game-versions = ["1.21", "1.21.0", "1.21.1"]
-no-internal-hashes = true
+no-internal-hashes = false
