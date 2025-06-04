@@ -248,12 +248,12 @@ metafile = true
 
 [[files]]
 file = "mods/data-essence.pw.toml"
-hash = "5ac5803641abca6ced001727e713f59b9cc091a435dda6013d545851c7ab34b9"
+hash = "7775d2786d844c23523fc5cce796b74214f81a7dbbf08a0a3950082ba9f7a1d3"
 metafile = true
 
 [[files]]
 file = "mods/databank.pw.toml"
-hash = "072e2d091e6f78b663989f88c2e75eb8aaf46c42fa713edd85fe3086caf17622"
+hash = "76f34318c36ec685964d9def5393dbdcc1eeea62e1011af1e0f620970fdf787c"
 metafile = true
 
 [[files]]
@@ -431,6 +431,11 @@ hash = "f05b7aec4046e3860a4795a74b036c58153b509f5ba1f4a8cacc6ab5a1dff87e"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "bb0d0330cccf1eff2e97821d31a17a4448c0e1947b58aa2ec08e359d121b7e5b"
 metafile = true
@@ -542,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "87e3acd7d3cdda6d8c99f26dafd871ba6057b6ca54650b43e6b91939069a91e5"
+hash = "5b81cd94da55977b3fd23ae3cf6cb2f2b09d1c1194b81065a79f1e3e6c725f48"
 metafile = true
 
 [[files]]
