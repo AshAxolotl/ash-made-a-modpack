@@ -34,6 +34,24 @@ description = "Dynamic lights for example holding torch in hand gives light"
 side = "client"
 choices = ["dynamic_lights_on", "dynamic_lights_off"]
 
+[flavor_groups.sound]
+name = "Sound (Mod)"
+description = "Adds a wide range of new and improved sound effects"
+side = "client"
+choices = ["sound_on", "sound_off"]
+
+[flavor_groups.sound_physics_remastered]
+name = "Sound Physics Remastered"
+description = "Dynamic lights for example holding torch in hand gives light"
+side = "client"
+choices = ["sound_physics_remastered_on", "sound_physics_remastered_off"]
+
+[flavor_groups.presence_footsteps]
+name = "Presence Footsteps"
+description = "Dynamic lights for example holding torch in hand gives light"
+side = "client"
+choices = ["presence_footsteps_on", "presence_footsteps_off"]
+
 [flavor_groups.iris]
 name = "Iris"
 description = "Shaders!"
@@ -62,6 +80,12 @@ flavors = "particular_on"
 flavors = "explosive_enhancement_on"
 [metafile.lambdynamiclights-unofficial-neoforge]
 flavors = "dynamic_lights_on"
+[metafile.sound]
+flavors = "sound_on"
+[metafile.sound-physics-remastered]
+flavors = "sound_physics_remastered_on"
+[metafile.presence-footsteps]
+flavors = "presence_footsteps_on"
 [metafile.iris]
 flavors = "iris_on"
 [metafile.iris-flw-compat]

@@ -616,6 +616,11 @@ hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
+metafile = true
+
+[[files]]
 file = "mods/pretty-rain.pw.toml"
 hash = "8319748b7c1a39462d159ed94da5c972b99958628c776be8d7c1e4c48fdaa5eb"
 metafile = true
@@ -698,6 +703,16 @@ metafile = true
 [[files]]
 file = "mods/sort-it-out.pw.toml"
 hash = "b8253b066948c11c5db757fc6e3a7b9e5d4039ab1aa1543132feed7bb660cad0"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "3d003b30318f48a36bb710e8cde44d9287018d6f9c9a654c4f91e8a34b8f76b6"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "9fd8a776007787ce2f9015d2371abf3891b7cc070ba10f233205548ebc6dd82a"
 metafile = true
 
 [[files]]
@@ -1000,4 +1015,4 @@ hash = "c2e62879ea67c27d883c15494469ce9737a4ecf2b83c15572b247680a821464c"
 
 [[files]]
 file = "unsup.toml"
-hash = "1110ff2fcc0e8b3b491eba33029090d08b13061d7a680fee1ecdcda50dc03082"
+hash = "7029c6cb76cd4573f9e6f5c530214ddc361d0ced7f801687d4002650ff07af6f"
