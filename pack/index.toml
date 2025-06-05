@@ -92,6 +92,11 @@ hash = "b14f5b5f2139166e304a4544a8bd40453bfc190d9b16fb49f52909a7b880d533"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
@@ -546,11 +551,6 @@ hash = "1cabd3b6894c9ad18da3961c7ec44b994497d8f86bfefb9b42ebb52a2c460fd4"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases-forge.pw.toml"
-hash = "527d67c3be0a653c50cc2f992f0f764f13f6670aa1296f7d6c63dd1ea2a553ca"
-metafile = true
-
-[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "d69c07a914ac0a05354c66033c6f6635335e4f7576870e4a5cf31e8fb2fea819"
 metafile = true
@@ -748,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "90956e69d35ea7658d5a674b68662f51b09ba11596877170e5c01b2aaa3dcd49"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
 
 [[files]]
