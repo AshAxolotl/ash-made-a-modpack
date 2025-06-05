@@ -726,11 +726,6 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
-file = "mods/splinecart.pw.toml"
-hash = "66f3e982c29d4204afc8593f050f3fe3478f286b639e1404bbdb64bda3ad0406"
-metafile = true
-
-[[files]]
 file = "mods/spring-to-life-backport.pw.toml"
 hash = "fbce2666f8c1b208149ebbf315743f272505c4a52bf360fcdbd6e2f2c3a0ad3a"
 metafile = true
