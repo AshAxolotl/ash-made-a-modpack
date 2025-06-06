@@ -140,6 +140,11 @@ hash = "9605764353450757f20e153abdcedf770b4affab703869724b17454d23a45039"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "3f63afd3db4e5a076efe4438130898cd7d91782f2703f3f195470240081c3866"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-inspector.pw.toml"
 hash = "6d83e3f3500b53bc17d90c0356a0b257bcb900acb8108f84145bf15fd563f7b5"
 metafile = true
@@ -1033,4 +1038,4 @@ hash = "c2e62879ea67c27d883c15494469ce9737a4ecf2b83c15572b247680a821464c"
 
 [[files]]
 file = "unsup.toml"
-hash = "7029c6cb76cd4573f9e6f5c530214ddc361d0ced7f801687d4002650ff07af6f"
+hash = "c4ed734dac3b8110dd2c930bf4739767f5962bd453c18ae64ce88ae75c4fac18"
