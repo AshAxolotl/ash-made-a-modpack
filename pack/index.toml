@@ -80,6 +80,11 @@ hash = "ce5d0cd5986126c23dc35c89a6d2124751071693c034afc3799b4f633466997f"
 metafile = true
 
 [[files]]
+file = "mods/adaptiveview.pw.toml"
+hash = "cb0c7e05293aadba1ea84ad8e04a68241ebd8a87bc78467ced28e043cda567b0"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "08f8c21e553fe134333ead574cac41030b73f85ad3a3f7701ec21312dc33b400"
 metafile = true
