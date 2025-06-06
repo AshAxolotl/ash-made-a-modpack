@@ -33,6 +33,14 @@ file = "config/default_files/config/fog/config.json"
 hash = "40b5deea03174c6e26e2c58fc5b7d57bb65a261e3e0b5c89780536fec28c821c"
 
 [[files]]
+file = "config/default_files/config/shulkerboxtooltip.json5"
+hash = "63039a15cbfe47346ed09ff8784de71fad4c8eeae0fba141bd434642b160a15c"
+
+[[files]]
+file = "config/default_files/config/soundcontroller.json"
+hash = "ea59a9797ae1f22ce84ff41ad45cac10d43f70e8529abb9c8ab02a5551e177f9"
+
+[[files]]
 file = "config/default_files/config/whereisit.json5"
 hash = "290a81449e30dbe3b066400f199a909ae175eff74c52cc35ad817168c65b9dda"
 
@@ -367,11 +375,6 @@ hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
 metafile = true
 
 [[files]]
-file = "mods/extreme_sound_muffler.pw.toml"
-hash = "244e0acbb53168401b617c4a79f327ea17e767175e88fce35af4647fd7c60cac"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "c4027b8071cc6dfc7f0d49e702a5e25b1e36841e50acba1e699f308be156b8f2"
 metafile = true
@@ -691,6 +694,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "e75a92a9c6285a8015b37fb673d4799b8d8531ed81af2ccdf9214b76b8fb7b26"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
 metafile = true
@@ -713,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/sort-it-out.pw.toml"
 hash = "b8253b066948c11c5db757fc6e3a7b9e5d4039ab1aa1543132feed7bb660cad0"
+metafile = true
+
+[[files]]
+file = "mods/sound-controller.pw.toml"
+hash = "d2dbc020099dcd852efda54fb282658f19e58b52205f5218431990120c1399be"
 metafile = true
 
 [[files]]
