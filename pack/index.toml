@@ -764,6 +764,11 @@ hash = "fa83a43df0c7545b4c6d9f82f3c50fb6634c965aa742bab3aa626b7b705f09ac"
 metafile = true
 
 [[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "cbd24cdc5e83c7f687d56ed15b79f0e4ea890d9e825f747357e22831f67f4f0f"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "b6c2f0a3e8abdb199e2cf64155cb0d00dde4a13c412f17a7229067ebc47bb1fe"
 metafile = true
@@ -796,6 +801,11 @@ metafile = true
 [[files]]
 file = "mods/trickster.pw.toml"
 hash = "c07aa6df66dadeab9e45c38c31f4222158040e6643cdc62662a7878ee9e5ea0a"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "cdbf6bcd8a9f2b1615fcc76b9ff0fc8a1256db3e6532a4ad9fc17ce83c4f8c3f"
 metafile = true
 
 [[files]]
