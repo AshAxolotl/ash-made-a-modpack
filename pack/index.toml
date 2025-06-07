@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/akashictome-common.toml"
+hash = "9b23e44855a044eff522dd67f2a723a7cd72c0a3fa93ab348a27c0444c63c362"
+
+[[files]]
 file = "config/corpse-server.toml"
 hash = "1fdff5341c20be0c2171f7c9db03a257ed78556ad6a881ad9b7d1d4425d59215"
 
@@ -131,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "dc3575dab2673b765947da8a87c01464ea77af8fe355fe18579dce514b35be7a"
+hash = "a77830f11c321ef40ace0c3f9c3974e206dc3b788dfc9c767248152ccda7f53b"
 metafile = true
 
 [[files]]
@@ -705,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
+hash = "3f74bba2fa702257f073f185246d70109e7aa6a464084382f75ec91a4c9b2ac1"
 metafile = true
 
 [[files]]
