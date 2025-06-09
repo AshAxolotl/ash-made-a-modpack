@@ -5,8 +5,16 @@ file = "config/akashictome-common.toml"
 hash = "9b23e44855a044eff522dd67f2a723a7cd72c0a3fa93ab348a27c0444c63c362"
 
 [[files]]
+file = "config/antique-atlas.toml"
+hash = "d4d5f0f2a0fe88a1fd5c573d269826b6b93ca3cc45d7f9169e60221c1ed54259"
+
+[[files]]
+file = "config/carryon-common.toml"
+hash = "87efc77f2b755769e6540be4480a387d431793b9791482259617b48c0dec015c"
+
+[[files]]
 file = "config/corpse-server.toml"
-hash = "1fdff5341c20be0c2171f7c9db03a257ed78556ad6a881ad9b7d1d4425d59215"
+hash = "d9af1ea1b13b041c51719ed9a06ea13ee3ad12d23bf53566063b7c0e8ef9f631"
 
 [[files]]
 file = "config/create-server.toml"
@@ -171,6 +179,16 @@ metafile = true
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "5d320becaeb7d0c1be9a1eb095e0f8437a595626fab0c561d2e5abb1a448dc05"
+metafile = true
+
+[[files]]
+file = "mods/carry-on-extend.pw.toml"
+hash = "441ccd90f461146fbeb65818fe4f42dc055c6dc85f41e052f525ac193a7daa66"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
@@ -733,6 +751,11 @@ hash = "b8253b066948c11c5db757fc6e3a7b9e5d4039ab1aa1543132feed7bb660cad0"
 metafile = true
 
 [[files]]
+file = "mods/soulbound-enchantment.pw.toml"
+hash = "8d9d741f3b4a89c617f8ea7d4ba02c0b82e8703e441478f23633945a1a653988"
+metafile = true
+
+[[files]]
 file = "mods/sound-controller.pw.toml"
 hash = "d2dbc020099dcd852efda54fb282658f19e58b52205f5218431990120c1399be"
 metafile = true
@@ -1036,6 +1059,18 @@ file = "resources/pack_resources/data/minecraft/recipe/recovery_compass.json"
 hash = "6a7a5bd3d75bba423ffa5f6919f7c8b5e677da128f7d1c41e1ecfdb761f44a7a"
 
 [[files]]
+file = "resources/pack_resources/data/minecraft/tags/enchantment/in_enchanting_table.json"
+hash = "79f82241a7d9a5a3fcd80e88889ea6dc6a6009ea8bc2ccfb28e38e41ad621f7b"
+
+[[files]]
+file = "resources/pack_resources/data/minecraft/tags/enchantment/on_traded_equipment.json"
+hash = "79f82241a7d9a5a3fcd80e88889ea6dc6a6009ea8bc2ccfb28e38e41ad621f7b"
+
+[[files]]
+file = "resources/pack_resources/data/minecraft/tags/enchantment/tradeable.json"
+hash = "79f82241a7d9a5a3fcd80e88889ea6dc6a6009ea8bc2ccfb28e38e41ad621f7b"
+
+[[files]]
 file = "resources/pack_resources/data/minecraft/tags/function/load.json"
 hash = "3719a38f2790e63330d5f0b72070d3407e7fe23d92c2d4732edd7ef3f76f3116"
 
@@ -1050,6 +1085,14 @@ hash = "d228bece9995958c2f8a5436dcf567044703f2ccfb2ef5fd3e1880447822bbed"
 [[files]]
 file = "resources/pack_resources/data/nova_structures/loot_table/chests/end_castle/vault_slope.json"
 hash = "bd9ccc1be17e36ea98b188d79d12787daf991480991fab7624fab5428369bde7"
+
+[[files]]
+file = "resources/pack_resources/data/soulbound/enchantment/soulbound.json"
+hash = "461b8e0446cf58eb8b8a3e4ec60736aa2eb5da7bac47061e0ea353f321dd3ba9"
+
+[[files]]
+file = "resources/pack_resources/data/soulbound/tags/item/enchantable.json"
+hash = "8f923569209a7d7196ae0980d5500160226d6538eab372d63251909fce4ef8b3"
 
 [[files]]
 file = "resources/pack_resources/pack.mcmeta"

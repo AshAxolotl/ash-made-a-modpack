@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "#accessories:all_curios_items",
+    "#minecraft:enchantable/durability"
+  ]
+}
