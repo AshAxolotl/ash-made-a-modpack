@@ -69,6 +69,10 @@ file = "config/irons_spellbooks-server.toml"
 hash = "f8feafc4c637d50b60731fb51d8f19dd5d122e5f382f3849e87f89fcbf208a66"
 
 [[files]]
+file = "config/malum-common.toml"
+hash = "baf4fff6aac2588e3532192353cb48076a15200f45a121686313f4d3b7e313f3"
+
+[[files]]
 file = "config/openloader/options.json"
 hash = "b5ba0c42a2d5aff3746372fc027261b9d1f1e05104cc97bd3a74893f1106fcf9"
 
