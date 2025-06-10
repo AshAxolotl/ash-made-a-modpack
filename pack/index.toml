@@ -69,6 +69,10 @@ file = "config/irons_spellbooks-server.toml"
 hash = "f8feafc4c637d50b60731fb51d8f19dd5d122e5f382f3849e87f89fcbf208a66"
 
 [[files]]
+file = "config/lootr-client.toml"
+hash = "f48de009ea6d133a91166894c674f51acac3793de1017cd27f0cd1efeb1bc345"
+
+[[files]]
 file = "config/malum-common.toml"
 hash = "baf4fff6aac2588e3532192353cb48076a15200f45a121686313f4d3b7e313f3"
 
@@ -248,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "1d609f597d90c582a01f360cc143ba5c5cd5d62a7336d8d5fd02ca50637f52fb"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
@@ -785,6 +794,11 @@ hash = "fbce2666f8c1b208149ebbf315743f272505c4a52bf360fcdbd6e2f2c3a0ad3a"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "b95ce16789bdf41c767f5ee53502626eff959274ddd8a8c811d92a2705f1b561"
+metafile = true
+
+[[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "08e7625da2ecef8e836652537f2bee175ee332809f235f6d3dece03f97d154bc"
 metafile = true
@@ -837,6 +851,11 @@ metafile = true
 [[files]]
 file = "mods/view-distance-fix.pw.toml"
 hash = "cdbf6bcd8a9f2b1615fcc76b9ff0fc8a1256db3e6532a4ad9fc17ce83c4f8c3f"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
@@ -1092,7 +1111,7 @@ hash = "bd9ccc1be17e36ea98b188d79d12787daf991480991fab7624fab5428369bde7"
 
 [[files]]
 file = "resources/pack_resources/data/soulbound/enchantment/soulbound.json"
-hash = "461b8e0446cf58eb8b8a3e4ec60736aa2eb5da7bac47061e0ea353f321dd3ba9"
+hash = "2b38497a89bd55d6e7fd89729752d82c7a12971b8013f9ec7c72f9b7a32f5843"
 
 [[files]]
 file = "resources/pack_resources/data/soulbound/tags/item/enchantable.json"

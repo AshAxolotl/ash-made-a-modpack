@@ -2,7 +2,7 @@
   "description": {
     "translate": "enchantment.soulbound.soulbound"
   },
-  "exclusive_set": ["minecraft:vanishing_curse", "minecraft:unbreaking", "minecraft:mending"],
+  "exclusive_set": ["minecraft:vanishing_curse", "minecraft:mending"],
   "supported_items": "#soulbound:enchantable",
   "weight": 2,
   "max_level": 1,
