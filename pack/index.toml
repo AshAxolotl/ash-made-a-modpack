@@ -884,11 +884,6 @@ hash = "081a3d6bd63e9326d4aa63d54c092038f23e63fed3456c87731ef4fbd21bcc40"
 metafile = true
 
 [[files]]
-file = "mods/wiretap.pw.toml"
-hash = "1a5bb0eec2ba54577b5d4c73ffbe86ef1c3d6e9505f168a5af56bbb54d664257"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "e2ab678518f876a978414ec1b9c88896d78dcc49ee7bfefa0acc165d5388c7be"
 metafile = true
