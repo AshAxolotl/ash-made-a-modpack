@@ -484,6 +484,11 @@ hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
+file = "mods/headpat.pw.toml"
+hash = "476cee1d0c5080061c4cc609f692028b118f7084e22dfed8b8f709550465cffc"
+metafile = true
+
+[[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 hash = "a369596a2f75e3f05871b416ddfd0419e2dc4b36576d8e2e2ccf08ee876f7d3c"
 metafile = true
@@ -674,6 +679,11 @@ hash = "87fb28047d648087f2fe4891ddf9d3c394b9c5c29eaf4f3970fb7c32520e6fcf"
 metafile = true
 
 [[files]]
+file = "mods/patpat.pw.toml"
+hash = "a7f2ee895f267b83b6f9cff93e9254093a36fab0074922f9b4c786f408d7248b"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
@@ -785,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "3d003b30318f48a36bb710e8cde44d9287018d6f9c9a654c4f91e8a34b8f76b6"
+hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
 metafile = true
 
 [[files]]
@@ -871,6 +881,11 @@ metafile = true
 [[files]]
 file = "mods/where-is-it.pw.toml"
 hash = "081a3d6bd63e9326d4aa63d54c092038f23e63fed3456c87731ef4fbd21bcc40"
+metafile = true
+
+[[files]]
+file = "mods/wiretap.pw.toml"
+hash = "1a5bb0eec2ba54577b5d4c73ffbe86ef1c3d6e9505f168a5af56bbb54d664257"
 metafile = true
 
 [[files]]
