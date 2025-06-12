@@ -1072,7 +1072,7 @@ hash = "b107f2080d8e4702ebfcb996a03bc89811894e5377c909c4a773197269115daa"
 
 [[files]]
 file = "resources/pack_resources/data/custom/function/tick.mcfunction"
-hash = "f91672377c2e95849d3c3cc3ac145aa9d1b01c9ce175f845614e101e53b79f5b"
+hash = "d9e259fe6e91603a466524b7a84f2c192583bbaad9599c28820e8010fb50d46f"
 
 [[files]]
 file = "resources/pack_resources/data/custom/loot_table/map.json"
