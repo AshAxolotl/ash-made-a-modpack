@@ -89,6 +89,10 @@ file = "config/ribbits-neoforge-1_21_1.toml"
 hash = "f5c48a20d96e8cc0258b849546b460e7c503e443c422d4e417775258cb9f1da1"
 
 [[files]]
+file = "config/watut-server.toml"
+hash = "13d9df237b15b54b46500a9c9cc752ff224fb4b5991439a05840e7a10a97de8a"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "e5473d05c6e3d08c992cecbaa3cb66ed154655c0bfdbb90860b3e4f54a4623ec"
 metafile = true
@@ -768,6 +772,11 @@ hash = "3f74bba2fa702257f073f185246d70109e7aa6a464084382f75ec91a4c9b2ac1"
 metafile = true
 
 [[files]]
+file = "mods/sitting+.pw.toml"
+hash = "6849cbe791205308a6cb7e6d06172dca663446f7c6573ee2ce10f537aef9f16a"
+metafile = true
+
+[[files]]
 file = "mods/soaring-phantoms.pw.toml"
 hash = "a47973f0903ccdf444f7d537109ca8cc79a6687b2649bd2c8294f095bf9a951e"
 metafile = true
@@ -1088,6 +1097,10 @@ hash = "e79d3a8c93bf098524748d22ee97a61b95314c03a55c0d2e37c1dab054fd7b8b"
 [[files]]
 file = "resources/pack_resources/data/lootr/loot_table/chests/elytra.json"
 hash = "133d27d48753660411f19648e3a6afe339aa5ce49b3a453fd70f0c530569c502"
+
+[[files]]
+file = "resources/pack_resources/data/malum/tags/item/soulwoven_pouch_autocollect.json"
+hash = "adca44b7b03aeef0610f1aaa360f2489c69b8c3c4f61a15bb9919ae23c06c946"
 
 [[files]]
 file = "resources/pack_resources/data/minecraft/recipe/lodestone.json"
