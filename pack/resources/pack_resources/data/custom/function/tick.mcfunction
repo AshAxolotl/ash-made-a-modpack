@@ -1,5 +1,3 @@
-## copied from https://modrinth.com/datapack/hello-there/version/1.0.0
-## Load in new players
-execute if entity @a[tag=!custom.loaded] as @a[tag=!custom.loaded] at @s run function custom:newplayer
+# Fix entities not having a base swimming value!
 
-schedule function custom:tick 5s
+execute as @e[nbt=!{attributes:[{id:"neoforge:swim_speed"}]}] run attribute @s neoforge:swim_speed base set 1.0

@@ -503,6 +503,11 @@ hash = "a78e0195658761de35b3b2b1a5657c43d259495f82872b7f1e8686cfe30962d7"
 metafile = true
 
 [[files]]
+file = "mods/hypertubes.pw.toml"
+hash = "2d1d2b5f89df0fd22689cdb63dc4551e3e7080666fa0bcade48326d68096efc7"
+metafile = true
+
+[[files]]
 file = "mods/idwtialsimmoedm.pw.toml"
 hash = "f05b7aec4046e3860a4795a74b036c58153b509f5ba1f4a8cacc6ab5a1dff87e"
 metafile = true
@@ -1057,16 +1062,8 @@ file = "resources/pack_resources/data/create/recipe/shadow_steel_casing_wood.jso
 hash = "b107f2080d8e4702ebfcb996a03bc89811894e5377c909c4a773197269115daa"
 
 [[files]]
-file = "resources/pack_resources/data/custom/function/load.mcfunction"
-hash = "7777bcf83b5385ea085d5d096cf97b35291b3c208b6a07525914e2aaeeb62b4a"
-
-[[files]]
-file = "resources/pack_resources/data/custom/function/newplayer.mcfunction"
-hash = "fcc7576b801caadbbe7514fa95bb1c6366325fd66229f280a7e80e744ed76b96"
-
-[[files]]
 file = "resources/pack_resources/data/custom/function/tick.mcfunction"
-hash = "c5d72413f383005826e47a7684737526c5f90e4b5391ca5abcf9a55483f45d2a"
+hash = "f91672377c2e95849d3c3cc3ac145aa9d1b01c9ce175f845614e101e53b79f5b"
 
 [[files]]
 file = "resources/pack_resources/data/custom/loot_table/map.json"
@@ -1113,8 +1110,8 @@ file = "resources/pack_resources/data/minecraft/tags/enchantment/tradeable.json"
 hash = "79f82241a7d9a5a3fcd80e88889ea6dc6a6009ea8bc2ccfb28e38e41ad621f7b"
 
 [[files]]
-file = "resources/pack_resources/data/minecraft/tags/function/load.json"
-hash = "3719a38f2790e63330d5f0b72070d3407e7fe23d92c2d4732edd7ef3f76f3116"
+file = "resources/pack_resources/data/minecraft/tags/function/tick.json"
+hash = "cb771343f4ed0269edec9faa7600669915c35fbca21fc1e3111f84e548f9e105"
 
 [[files]]
 file = "resources/pack_resources/data/nova_structures/loot_table/chests/end_castle/vault_brigattine.json"
