@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-chiseled-bookshelf-variants.pw.toml"
-hash = "ab2acb252c2e4ecf6cd314db6ba5442e52456d3e7c89dacdb27086787bf6d69b"
+hash = "7fad03ab4454fcd0472d11b0926e3a5bf892b1b8e08c1715456326399a9375c1"
 metafile = true
 
 [[files]]
@@ -694,6 +694,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "74c4147419e31244a156285fc030ca773e7f35c69a04ad15cc5af68aa4db72b5"
 metafile = true
 
 [[files]]
