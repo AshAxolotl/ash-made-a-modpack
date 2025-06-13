@@ -1060,6 +1060,10 @@ file = "resources/pack_resources/assets/minecraft/textures/item/recovery_compass
 hash = "9148921149e2b30751cb1e65040ca4fd0b991ae82a8030275147374e42997c10"
 
 [[files]]
+file = "resources/pack_resources/data/alchemancy/tags/alchemancy/infusion_properties/disabled.json"
+hash = "dc90f992ea6caec0b7fe4da5e56bc7b6fc03d1d7da06653bc6eed111f5162e68"
+
+[[files]]
 file = "resources/pack_resources/data/create/recipe/refined_radiance_casing_log.json"
 hash = "0cc943f35ec61823f38f20c88683999ba2541c41ccd9ad2aed209ee0f643611f"
 
