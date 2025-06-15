@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "1d609f597d90c582a01f360cc143ba5c5cd5d62a7336d8d5fd02ca50637f52fb"
+hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
 metafile = true
 
 [[files]]
@@ -283,17 +283,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "7311050b0232214f32999a6eb3e75dc64de40ea1962bbb166f3e5499495db352"
+hash = "8e88d68a9dee5ca107ea3fd5d5394e52ae4e4f03decfc33974d6a958ccb200b5"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "60231e01fc1a64f3f0b155738bf5f56e9cb0f84d930b04aac83858357c4deaaf"
+hash = "70e420a2d0b40b40d660dbb71e77d738a3bcdc6475f59706a716c39c7cb85ef1"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "ff54adc13d204ceacffbf4cacce611bb3c6e7c741a912ee297259a4f1e576e61"
+hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
 
 [[files]]
@@ -909,10 +909,6 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "4bb587c09a53f82dec620482b3badeee9d6e865902efcfc39139f906cc0b108f"
 metafile = true
-
-[[files]]
-file = "resourcepacks/ComputerCreate.zip"
-hash = "b9d9a43ebda95dd8b97c57e4c40bec595e79a4117719038fa2af092a5e805ef7"
 
 [[files]]
 file = "resources/CC Tweaked AutoVim.zip"
