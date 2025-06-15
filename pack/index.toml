@@ -13,6 +13,10 @@ file = "config/carryon-common.toml"
 hash = "87efc77f2b755769e6540be4480a387d431793b9791482259617b48c0dec015c"
 
 [[files]]
+file = "config/copycats-common.toml"
+hash = "07c659ca6fa5cccd3f1cf5b7b6921fee3b35f051b0593b328451f27809a77b77"
+
+[[files]]
 file = "config/corpse-server.toml"
 hash = "d9af1ea1b13b041c51719ed9a06ea13ee3ad12d23bf53566063b7c0e8ef9f631"
 
