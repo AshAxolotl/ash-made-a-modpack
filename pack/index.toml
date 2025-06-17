@@ -580,6 +580,11 @@ hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "223f9b57117d442a30f32e20f5ac9a5cfaa3db8d605ebcdb56a74e9e57444b2b"
+metafile = true
+
+[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
 metafile = true
@@ -877,6 +882,11 @@ metafile = true
 [[files]]
 file = "mods/thaumon.pw.toml"
 hash = "1f6514189ad1e70bd5ea8702d78d27f54e1d682d5644b0b9187e9830f7a8ac7b"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "c83fbd7c8ebe356a6cdf36fff85c516f0d0e049ea914169f4b0fc094111c903e"
 metafile = true
 
 [[files]]
