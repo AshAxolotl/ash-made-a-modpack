@@ -1070,8 +1070,12 @@ file = "resources/pack_resources/data/create/recipe/shadow_steel_casing_wood.jso
 hash = "b107f2080d8e4702ebfcb996a03bc89811894e5377c909c4a773197269115daa"
 
 [[files]]
-file = "resources/pack_resources/data/custom/function/tick.mcfunction"
-hash = "d9e259fe6e91603a466524b7a84f2c192583bbaad9599c28820e8010fb50d46f"
+file = "resources/pack_resources/data/custom/function/load.mcfunction"
+hash = "bbac569ed58dee14cdbff0143f97323b4bdfcaaf81d218eb59c61cd285599b2f"
+
+[[files]]
+file = "resources/pack_resources/data/custom/function/swimfix.mcfunction"
+hash = "bf5b903dfb026c134022466fb387b0ebcf2f12c957013cc06a10b33b56083208"
 
 [[files]]
 file = "resources/pack_resources/data/custom/loot_table/map.json"
@@ -1122,8 +1126,8 @@ file = "resources/pack_resources/data/minecraft/tags/enchantment/tradeable.json"
 hash = "79f82241a7d9a5a3fcd80e88889ea6dc6a6009ea8bc2ccfb28e38e41ad621f7b"
 
 [[files]]
-file = "resources/pack_resources/data/minecraft/tags/function/tick.json"
-hash = "cb771343f4ed0269edec9faa7600669915c35fbca21fc1e3111f84e548f9e105"
+file = "resources/pack_resources/data/minecraft/tags/function/load.json"
+hash = "3719a38f2790e63330d5f0b72070d3407e7fe23d92c2d4732edd7ef3f76f3116"
 
 [[files]]
 file = "resources/pack_resources/data/nova_structures/loot_table/chests/end_castle/vault_brigattine.json"
