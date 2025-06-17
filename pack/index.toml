@@ -74,7 +74,7 @@ hash = "377cf0a4c8f384ee6d5fa593ab0c52e7a4ef30baf5c0f770d9b630869d38b6b9"
 
 [[files]]
 file = "config/irons_spellbooks-server.toml"
-hash = "f8feafc4c637d50b60731fb51d8f19dd5d122e5f382f3849e87f89fcbf208a66"
+hash = "577e7907249d8c3dca6c3d5baa04796afaf508fe2a3bbc8cac02755df220027b"
 
 [[files]]
 file = "config/lootr-client.toml"
