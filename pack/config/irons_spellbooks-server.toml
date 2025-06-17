@@ -17,7 +17,7 @@
 	#The maximum amount of times an applicable piece of equipment can be upgraded in the arcane anvil. Default: 3
 	maxUpgrades = 3
 	#From 0-1, the percent of max mana a player respawns with. Default: 0.0
-	manaSpawnPercent = 0.0
+	manaSpawnPercent = 0.2
 	#From 0-1, the percent chance for scrolls to be successfully recycled. Default: 0.5 (50%)
 	scrollRecycleChance = 0.5
 	#Whether or not potions should be allowed to be brewed in the alchemist cauldron)
@@ -251,7 +251,7 @@
 		MinRarity = "UNCOMMON"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 35.0
+		CooldownInSeconds = 50.0 # Default = 35, new value makes it harder to stunlock
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:blight"]
@@ -417,7 +417,7 @@
 		MinRarity = "UNCOMMON"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 2.0
+		CooldownInSeconds = 6.0 # Default = 2.0, Increased cooldown to make it more balanced. might increase it even more later.
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:arrow_volley"]
@@ -561,7 +561,7 @@
 		MinRarity = "UNCOMMON"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 3.0
+		CooldownInSeconds = 5.0 # Default = 3.0, decided to increase slightly to discourage spam
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:echoing_strikes"]
@@ -605,7 +605,7 @@
 		MinRarity = "LEGENDARY"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 120.0
+		CooldownInSeconds = 150.0 # Default = 120, It's a fucky spell, dont want that spammed either.
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:magic_missile"]
@@ -649,7 +649,7 @@
 		MinRarity = "RARE"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 10.0
+		CooldownInSeconds = 15.0 # Default = 10.0, increased to make it less op in a "1v1" situation against certain spells
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:starfall"]
@@ -748,7 +748,7 @@
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "RARE"
 		ManaCostMultiplier = 1.0
-		SpellPowerMultiplier = 1.0
+		SpellPowerMultiplier = 0.8 # Default = 1.0, decreased slightly to hopefully negate the unavoidable one shot of the ice wizard.
 		CooldownInSeconds = 15.0
 		AllowCrafting = true
 
@@ -770,7 +770,7 @@
 		MaxLevel = 5
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "LEGENDARY"
-		ManaCostMultiplier = 1.0
+		ManaCostMultiplier = 1.3 # Default = 1.0, Annoying spell so there should be a bigger penalty for using it for long times. (yeeting away is not punished, but holding someone in lava is)
 		SpellPowerMultiplier = 1.0
 		CooldownInSeconds = 35.0
 		AllowCrafting = true
@@ -827,7 +827,7 @@
 		MinRarity = "LEGENDARY"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 30.0
+		CooldownInSeconds = 40.0 # Default = 30.0, slightly increased cus it's really strong. not too much, since eldritch
 		AllowCrafting = true
 
 	#irons_spellbooks:holy
@@ -920,14 +920,14 @@
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:angel_wing"]
-		Enabled = false
+		Enabled = true # Re-enabled due to rebalancing.
 		School = "irons_spellbooks:holy"
-		MaxLevel = 5
+		MaxLevel = 1 # Default = 5, reduced for the rebalance.
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
-		MinRarity = "EPIC"
+		MinRarity = "LEGENDARY" # Default = "EPIC", increased to legendary cus it's only 1 level and its fun.
 		ManaCostMultiplier = 1.0
-		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 120.0
+		SpellPowerMultiplier = 0.3 # Default = 1.0, This should reduce the length of elytra being active.
+		CooldownInSeconds = 90.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:fortify"]
@@ -1138,7 +1138,7 @@
 		MinRarity = "COMMON"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 1.0
+		CooldownInSeconds = 5.0 # Default = 1.0, This is a really strong spell, and a cooldown of 1 is absurd. pretty easy to cheese bosses with it as well.
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:chain_lightning"]
