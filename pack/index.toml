@@ -126,6 +126,11 @@ file = "mods/alchemancy-1.1.2-scaregoal-changes.jar"
 hash = "21cd2506ed56af9fb984ee44307f10bc30b87e7a66f24b621a26786901531bcc"
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "cb96cee37aeb38e012b1b85b10f0aa888b3875c84103e6981b13df389cbd8074"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
 metafile = true
@@ -612,6 +617,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
