@@ -69,6 +69,10 @@ file = "config/default_files/options.txt"
 hash = "46fd227e73f26780fec2ca65a26f13f8044ac42815464fbba65e3c081049cc3d"
 
 [[files]]
+file = "config/default_files/terrastorage_client.toml"
+hash = "22a07780951069d843d768c1e14aa95a225f0114a49c514ca96e61f3ac389128"
+
+[[files]]
 file = "config/headpats.json"
 hash = "377cf0a4c8f384ee6d5fa593ab0c52e7a4ef30baf5c0f770d9b630869d38b6b9"
 
@@ -91,6 +95,10 @@ hash = "b5ba0c42a2d5aff3746372fc027261b9d1f1e05104cc97bd3a74893f1106fcf9"
 [[files]]
 file = "config/ribbits-neoforge-1_21_1.toml"
 hash = "f5c48a20d96e8cc0258b849546b460e7c503e443c422d4e417775258cb9f1da1"
+
+[[files]]
+file = "config/terrastorage.toml"
+hash = "8b08e84f9dd5ac3019ac530bf2d7cf7571bf8c2fb31e5b185537515bc1084aeb"
 
 [[files]]
 file = "config/watut-server.toml"
