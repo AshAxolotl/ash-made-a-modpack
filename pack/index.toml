@@ -810,11 +810,6 @@ hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
 metafile = true
 
 [[files]]
-file = "mods/sort-it-out.pw.toml"
-hash = "b8253b066948c11c5db757fc6e3a7b9e5d4039ab1aa1543132feed7bb660cad0"
-metafile = true
-
-[[files]]
 file = "mods/soulbound-enchantment.pw.toml"
 hash = "8d9d741f3b4a89c617f8ea7d4ba02c0b82e8703e441478f23633945a1a653988"
 metafile = true
@@ -877,6 +872,11 @@ metafile = true
 [[files]]
 file = "mods/surveyor.pw.toml"
 hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
+metafile = true
+
+[[files]]
+file = "mods/terrastorage.pw.toml"
+hash = "61b77ade93ba4533ad5bde03ef9277b3b0a7bfe7be1111ef9296df48604f235d"
 metafile = true
 
 [[files]]
