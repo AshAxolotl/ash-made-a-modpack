@@ -57,6 +57,10 @@ file = "config/default_files/config/soundcontroller.json"
 hash = "ea59a9797ae1f22ce84ff41ad45cac10d43f70e8529abb9c8ab02a5551e177f9"
 
 [[files]]
+file = "config/default_files/config/terrastorage_client.toml"
+hash = "22a07780951069d843d768c1e14aa95a225f0114a49c514ca96e61f3ac389128"
+
+[[files]]
 file = "config/default_files/config/whereisit.json5"
 hash = "290a81449e30dbe3b066400f199a909ae175eff74c52cc35ad817168c65b9dda"
 
@@ -67,10 +71,6 @@ hash = "7322ab16c964edbf807d1d9d3ad5308ab59d685b4635b54bd9a983c77b169c24"
 [[files]]
 file = "config/default_files/options.txt"
 hash = "46fd227e73f26780fec2ca65a26f13f8044ac42815464fbba65e3c081049cc3d"
-
-[[files]]
-file = "config/default_files/terrastorage_client.toml"
-hash = "22a07780951069d843d768c1e14aa95a225f0114a49c514ca96e61f3ac389128"
 
 [[files]]
 file = "config/headpats.json"
