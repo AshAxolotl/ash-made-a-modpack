@@ -493,6 +493,10 @@ hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
 metafile = true
 
 [[files]]
+file = "mods/frogserverpackmod-1.0.0.jar"
+hash = "73cb00b927c35e50aa0c8780f28fec19ea281e737e5144170c5b254dea4e50db"
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "37a1086360571a34cfadd0088cd331b405857c942b5611caafebc27fb8ea1a42"
 metafile = true
