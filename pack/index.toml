@@ -105,6 +105,10 @@ file = "config/watut-server.toml"
 hash = "13d9df237b15b54b46500a9c9cc752ff224fb4b5991439a05840e7a10a97de8a"
 
 [[files]]
+file = "mods/Pastel-1.0.0-alpha4.jar"
+hash = "33d92e454cf46c8769cb99dd8d15a24c3c4d822c2012715b736edc53ab2a3b90"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "e5473d05c6e3d08c992cecbaa3cb66ed154655c0bfdbb90860b3e4f54a4623ec"
 metafile = true
