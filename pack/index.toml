@@ -93,6 +93,10 @@ file = "config/openloader/options.json"
 hash = "b5ba0c42a2d5aff3746372fc027261b9d1f1e05104cc97bd3a74893f1106fcf9"
 
 [[files]]
+file = "config/pastel.json5"
+hash = "7f4df4402f6135593160771ddad4bf0ecd97ca76d57a15c023daafcac8bb9795"
+
+[[files]]
 file = "config/ribbits-neoforge-1_21_1.toml"
 hash = "f5c48a20d96e8cc0258b849546b460e7c503e443c422d4e417775258cb9f1da1"
 
