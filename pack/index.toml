@@ -94,7 +94,7 @@ hash = "b5ba0c42a2d5aff3746372fc027261b9d1f1e05104cc97bd3a74893f1106fcf9"
 
 [[files]]
 file = "config/pastel.json5"
-hash = "7f4df4402f6135593160771ddad4bf0ecd97ca76d57a15c023daafcac8bb9795"
+hash = "f0bf44b9e07ff8ffafd34665fc0f01c7868a4f3aefb8bee8b4f304ace5278bea"
 
 [[files]]
 file = "config/ribbits-neoforge-1_21_1.toml"
@@ -109,8 +109,8 @@ file = "config/watut-server.toml"
 hash = "13d9df237b15b54b46500a9c9cc752ff224fb4b5991439a05840e7a10a97de8a"
 
 [[files]]
-file = "mods/Pastel-1.0.0-alpha4.jar"
-hash = "33d92e454cf46c8769cb99dd8d15a24c3c4d822c2012715b736edc53ab2a3b90"
+file = "mods/Pastel-1.0.0-alpha5.jar"
+hash = "84500f02ae2bbadd0519a642bd1e7eb22c3251d3e25bcbfa7b55430b82f474d0"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
