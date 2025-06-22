@@ -78,7 +78,7 @@ hash = "377cf0a4c8f384ee6d5fa593ab0c52e7a4ef30baf5c0f770d9b630869d38b6b9"
 
 [[files]]
 file = "config/irons_spellbooks-server.toml"
-hash = "577e7907249d8c3dca6c3d5baa04796afaf508fe2a3bbc8cac02755df220027b"
+hash = "0e326054d04834004376ccbaed85ae508074c7da6705ac1e1e5a38986e0875c7"
 
 [[files]]
 file = "config/lootr-client.toml"
@@ -138,8 +138,8 @@ hash = "08f8c21e553fe134333ead574cac41030b73f85ad3a3f7701ec21312dc33b400"
 metafile = true
 
 [[files]]
-file = "mods/alchemancy-1.1.2-scaregoal-changes.jar"
-hash = "21cd2506ed56af9fb984ee44307f10bc30b87e7a66f24b621a26786901531bcc"
+file = "mods/alchemancy-1.1.2-disabled-mob-pathfinding-features.jar"
+hash = "1ebb0a26411bb677115f27e8d9be7ef8c2a7dc66b12825783ac4bc27e60d1fab"
 
 [[files]]
 file = "mods/almanac.pw.toml"
