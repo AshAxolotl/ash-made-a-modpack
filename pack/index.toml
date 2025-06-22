@@ -338,12 +338,12 @@ metafile = true
 
 [[files]]
 file = "mods/data-essence.pw.toml"
-hash = "7775d2786d844c23523fc5cce796b74214f81a7dbbf08a0a3950082ba9f7a1d3"
+hash = "55fc40a3afdc6af1930abde379f6238e930233967bb5e0a2996f32f65f587a7d"
 metafile = true
 
 [[files]]
 file = "mods/databank.pw.toml"
-hash = "76f34318c36ec685964d9def5393dbdcc1eeea62e1011af1e0f620970fdf787c"
+hash = "556db75903074830b35053c3cae98cccff82a3a1629158de2ae2829169236c89"
 metafile = true
 
 [[files]]
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "c219a1ee2d9952f4d2d0de342cd1dd148a2c46ddca9eb71d3c5022f70e62edb9"
+hash = "bd14409bb94cab897e765d8d2912d34984c1f4985989051a486985ff28974dd7"
 metafile = true
 
 [[files]]
