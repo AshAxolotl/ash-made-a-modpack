@@ -975,7 +975,7 @@ file = "resources/pack_resources/assets/custom/lang/en_us.json"
 hash = "2809bc0ee302993bb166d97370d55c26858084f5d79fe3c174cacbb55c21b0e0"
 
 [[files]]
-file = "resources/pack_resources/assets/custom/textures/gui/sprites/circlet.png"
+file = "resources/pack_resources/assets/custom/textures/gui/slot/circlet.png"
 hash = "e5f118d0abb207377eac59063234498130089c7501acce4c8c3ff6e6652fd9e0"
 
 [[files]]
