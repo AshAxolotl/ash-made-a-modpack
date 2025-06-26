@@ -580,11 +580,6 @@ hash = "638709ccc805606ac9fa9bf2f135ae4dd79d299e5796dcac062d838cbdaf6642"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "da0e59784b011304af8e5d2363a774425a31acdfc63bf513a32b93b9a9cb67e0"
-metafile = true
-
-[[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "9e2bdaf40d945acff14585c51ef3b7a1be7cd75df4785f4658b7488a7f61fd38"
 metafile = true
@@ -915,6 +910,11 @@ hash = "c83fbd7c8ebe356a6cdf36fff85c516f0d0e049ea914169f4b0fc094111c903e"
 metafile = true
 
 [[files]]
+file = "mods/tmrv.pw.toml"
+hash = "857914765a24c64096fd3b7127741f519b7514a06c60a155011541ad5b153910"
+metafile = true
+
+[[files]]
 file = "mods/transmog.pw.toml"
 hash = "882158c17af560d7798e85bee9b34c4665e5b2497d677574b48ef8edecd82ade"
 metafile = true
@@ -969,6 +969,10 @@ hash = "a2533aee2633019d1045a57fdfd36079dfd36eab611e0b046d47ad47c4c16472"
 [[files]]
 file = "resources/credits.txt"
 hash = "83475a409bfefd40c29322b4dd7e30db545311c35808d0e44ec7c3d7a1e11023"
+
+[[files]]
+file = "resources/pack_resources/assets/custom/textures/gui/sprites/circlet.png"
+hash = "e5f118d0abb207377eac59063234498130089c7501acce4c8c3ff6e6652fd9e0"
 
 [[files]]
 file = "resources/pack_resources/assets/minecraft/textures/item/recovery_compass_00.png"
@@ -1099,6 +1103,10 @@ file = "resources/pack_resources/assets/minecraft/textures/item/recovery_compass
 hash = "9148921149e2b30751cb1e65040ca4fd0b991ae82a8030275147374e42997c10"
 
 [[files]]
+file = "resources/pack_resources/data/accessories/tags/item/face.json"
+hash = "25a01c627f09c16e5316ba5407136db1931de720d75d3a6de5fc66c5efd6e3a0"
+
+[[files]]
 file = "resources/pack_resources/data/create/recipe/refined_radiance_casing_log.json"
 hash = "0cc943f35ec61823f38f20c88683999ba2541c41ccd9ad2aed209ee0f643611f"
 
@@ -1113,6 +1121,10 @@ hash = "8fdca1307666d24f28741e4fbfeee4ce43d7632d09e6453e9efe7516a5b2337d"
 [[files]]
 file = "resources/pack_resources/data/create/recipe/shadow_steel_casing_wood.json"
 hash = "b107f2080d8e4702ebfcb996a03bc89811894e5377c909c4a773197269115daa"
+
+[[files]]
+file = "resources/pack_resources/data/custom/accessories/slot/circlet.json"
+hash = "5b9adbe87143859c5a13241d922f825077ac306ea7e0b48cf38d04664747cb82"
 
 [[files]]
 file = "resources/pack_resources/data/custom/function/load.mcfunction"
