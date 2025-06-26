@@ -971,6 +971,10 @@ file = "resources/credits.txt"
 hash = "83475a409bfefd40c29322b4dd7e30db545311c35808d0e44ec7c3d7a1e11023"
 
 [[files]]
+file = "resources/pack_resources/assets/custom/lang/en_us.json"
+hash = "2809bc0ee302993bb166d97370d55c26858084f5d79fe3c174cacbb55c21b0e0"
+
+[[files]]
 file = "resources/pack_resources/assets/custom/textures/gui/sprites/circlet.png"
 hash = "e5f118d0abb207377eac59063234498130089c7501acce4c8c3ff6e6652fd9e0"
 
@@ -1103,6 +1107,10 @@ file = "resources/pack_resources/assets/minecraft/textures/item/recovery_compass
 hash = "9148921149e2b30751cb1e65040ca4fd0b991ae82a8030275147374e42997c10"
 
 [[files]]
+file = "resources/pack_resources/data/accessories/tags/item/circlet.json"
+hash = "05ed43ff302550ca48dc23cd384f0587680d6c4fb1c28b4fc42f6e024c9240f9"
+
+[[files]]
 file = "resources/pack_resources/data/accessories/tags/item/face.json"
 hash = "25a01c627f09c16e5316ba5407136db1931de720d75d3a6de5fc66c5efd6e3a0"
 
@@ -1123,8 +1131,20 @@ file = "resources/pack_resources/data/create/recipe/shadow_steel_casing_wood.jso
 hash = "b107f2080d8e4702ebfcb996a03bc89811894e5377c909c4a773197269115daa"
 
 [[files]]
+file = "resources/pack_resources/data/curios/tags/item/head.json"
+hash = "ba885c0662c5d9310e9d0841e1b843147aefb57369013e66af1cc98e312a734e"
+
+[[files]]
+file = "resources/pack_resources/data/custom/accessories/entity/default.json"
+hash = "138c1004223a36ad6dd91f3a2e03d4c3f323a086cde1a6720b27c04b054573e1"
+
+[[files]]
+file = "resources/pack_resources/data/custom/accessories/group/circlet.json"
+hash = "f78cc729bb3affb55b1d7ed49ed3e7eeb4a7f561bac076d561aedf8f8c00acd9"
+
+[[files]]
 file = "resources/pack_resources/data/custom/accessories/slot/circlet.json"
-hash = "5b9adbe87143859c5a13241d922f825077ac306ea7e0b48cf38d04664747cb82"
+hash = "a3f133a9e38d58a472d98b2e314a2ebba46ce41e88519c370113b85157838beb"
 
 [[files]]
 file = "resources/pack_resources/data/custom/function/load.mcfunction"
