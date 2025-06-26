@@ -976,7 +976,7 @@ hash = "2809bc0ee302993bb166d97370d55c26858084f5d79fe3c174cacbb55c21b0e0"
 
 [[files]]
 file = "resources/pack_resources/assets/custom/textures/gui/sprites/circlet.png"
-hash = "a3f133a9e38d58a472d98b2e314a2ebba46ce41e88519c370113b85157838beb"
+hash = "e5f118d0abb207377eac59063234498130089c7501acce4c8c3ff6e6652fd9e0"
 
 [[files]]
 file = "resources/pack_resources/assets/minecraft/textures/item/recovery_compass_00.png"
@@ -1144,7 +1144,7 @@ hash = "f78cc729bb3affb55b1d7ed49ed3e7eeb4a7f561bac076d561aedf8f8c00acd9"
 
 [[files]]
 file = "resources/pack_resources/data/custom/accessories/slot/circlet.json"
-hash = "a3f133a9e38d58a472d98b2e314a2ebba46ce41e88519c370113b85157838beb"
+hash = "6801a7a5dcf7645c6f0a4da7871a264102841b3d5329dda98428211c6277cca6"
 
 [[files]]
 file = "resources/pack_resources/data/custom/function/load.mcfunction"
