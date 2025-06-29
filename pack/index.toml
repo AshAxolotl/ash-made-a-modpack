@@ -297,6 +297,11 @@ hash = "48c96f96c87d8b4a4d74c5e1b60beb3adcdf9accd3c284e5cfc8ffc8aab9808b"
 metafile = true
 
 [[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "bbe41c6629eca553fed13d7b3fee895a4d8008fc77d93cf12e3325e20ef2e3a6"
+metafile = true
+
+[[files]]
 file = "mods/create-cc-total-logistics.pw.toml"
 hash = "fc8642cda2b36c01a9e0d0707db61fcc6d9d601d89cbdeabfbb32f90ef7b4440"
 metafile = true
@@ -304,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/create-ccbr.pw.toml"
 hash = "b2b7a901e7e24f6fbd2f2236320c9c2df88aa30f04a7eb643d723010b173b883"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "8d8c1d2270148b02ab4aa92275a55e879daf4fb9eab94750cf50c1d8b598e8d2"
 metafile = true
 
 [[files]]
@@ -1228,7 +1238,7 @@ hash = "8f923569209a7d7196ae0980d5500160226d6538eab372d63251909fce4ef8b3"
 
 [[files]]
 file = "resources/pack_resources/pack.mcmeta"
-hash = "c2e62879ea67c27d883c15494469ce9737a4ecf2b83c15572b247680a821464c"
+hash = "0fbddc2e4fac9dffcb843c301c397a7baba802529643da2aba9371e49d750750"
 
 [[files]]
 file = "unsup.toml"

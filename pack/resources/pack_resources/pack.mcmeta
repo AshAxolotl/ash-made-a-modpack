@@ -5,6 +5,10 @@
   },
   "filter": {
         "block": [
+          {
+            "namespace": "pastel",
+            "path": "recipe/pedestal/tier4/vanilla/elytra"
+          },
       ]
   }
 }
