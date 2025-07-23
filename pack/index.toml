@@ -109,10 +109,6 @@ file = "config/watut-server.toml"
 hash = "13d9df237b15b54b46500a9c9cc752ff224fb4b5991439a05840e7a10a97de8a"
 
 [[files]]
-file = "mods/Pastel-1.0.0-BETA.jar"
-hash = "eb50caaec42d0d74b289ac777ec62e5c093f02bdc8e97e6d664ff3289d5cdda0"
-
-[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "e5473d05c6e3d08c992cecbaa3cb66ed154655c0bfdbb90860b3e4f54a4623ec"
 metafile = true
@@ -238,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "eb995fc30ad291a46e2b22bee640b9a315c44d5a76ce6fab2e03cfbfb8b8c429"
+hash = "93a630545090420997588464bd281ae7b38a3eff80e203fbd065b548407748a1"
 metafile = true
 
 [[files]]
@@ -348,12 +344,12 @@ metafile = true
 
 [[files]]
 file = "mods/data-essence.pw.toml"
-hash = "6ecf871625715b73dfc965d7a6c9e21f23abbe3c4857aaad2eebbe0ce1be28d3"
+hash = "4fc11d6dcd29d0d5303524753b4764f85a19dc3c39738f8823cbed68df540681"
 metafile = true
 
 [[files]]
 file = "mods/databank.pw.toml"
-hash = "7878b2cb5a22fa6a77f59051e56b40628e602662cbcb5848e5a40909d04ab5ec"
+hash = "fa00ed1db5bc4347eac23192c6067d7a8506bb812da0f30fa55b3fbd3f92b5c3"
 metafile = true
 
 [[files]]
@@ -732,6 +728,11 @@ metafile = true
 [[files]]
 file = "mods/particular-reforged.pw.toml"
 hash = "7e5d722a7ec0f37057bcc78feb55b9ebf8dd9c5892b60e002854c785bce4ada4"
+metafile = true
+
+[[files]]
+file = "mods/pastel-mod.pw.toml"
+hash = "2de84f2c2b889cdede50bce54868968f2ca2f8906790673c29cb705a1d656163"
 metafile = true
 
 [[files]]
