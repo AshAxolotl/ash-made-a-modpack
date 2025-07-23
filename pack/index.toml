@@ -101,6 +101,10 @@ file = "config/ribbits-neoforge-1_21_1.toml"
 hash = "f5c48a20d96e8cc0258b849546b460e7c503e443c422d4e417775258cb9f1da1"
 
 [[files]]
+file = "config/surveyor.toml"
+hash = "8185f3f45cd80352e14c53abbdbf7fddfcb0ae465cb93a4cc387a900c41f69f1"
+
+[[files]]
 file = "config/terrastorage.toml"
 hash = "8b08e84f9dd5ac3019ac530bf2d7cf7571bf8c2fb31e5b185537515bc1084aeb"
 
@@ -821,6 +825,11 @@ hash = "587514cb3c29b1aa90191a399aa2aee05bee9e1e170f1f60e9490640eea0897f"
 metafile = true
 
 [[files]]
+file = "mods/sinytra1343.pw.toml"
+hash = "1c2403fb1d6f300a6b752f2ee87bad66f17e044a17ed31fcd0ac927b8c8427fa"
+metafile = true
+
+[[files]]
 file = "mods/sitting+.pw.toml"
 hash = "6849cbe791205308a6cb7e6d06172dca663446f7c6573ee2ce10f537aef9f16a"
 metafile = true
@@ -1158,14 +1167,6 @@ file = "resources/pack_resources/data/custom/accessories/slot/circlet.json"
 hash = "6801a7a5dcf7645c6f0a4da7871a264102841b3d5329dda98428211c6277cca6"
 
 [[files]]
-file = "resources/pack_resources/data/custom/function/load.mcfunction"
-hash = "bbac569ed58dee14cdbff0143f97323b4bdfcaaf81d218eb59c61cd285599b2f"
-
-[[files]]
-file = "resources/pack_resources/data/custom/function/swimfix.mcfunction"
-hash = "bf5b903dfb026c134022466fb387b0ebcf2f12c957013cc06a10b33b56083208"
-
-[[files]]
 file = "resources/pack_resources/data/custom/loot_table/map.json"
 hash = "77ae45db07a882bdf3bb0466811c3affd76a1b7f366713af5334c28288c42bcd"
 
@@ -1212,10 +1213,6 @@ hash = "79f82241a7d9a5a3fcd80e88889ea6dc6a6009ea8bc2ccfb28e38e41ad621f7b"
 [[files]]
 file = "resources/pack_resources/data/minecraft/tags/enchantment/tradeable.json"
 hash = "79f82241a7d9a5a3fcd80e88889ea6dc6a6009ea8bc2ccfb28e38e41ad621f7b"
-
-[[files]]
-file = "resources/pack_resources/data/minecraft/tags/function/load.json"
-hash = "3719a38f2790e63330d5f0b72070d3407e7fe23d92c2d4732edd7ef3f76f3116"
 
 [[files]]
 file = "resources/pack_resources/data/nova_structures/loot_table/chests/end_castle/vault_brigattine.json"
