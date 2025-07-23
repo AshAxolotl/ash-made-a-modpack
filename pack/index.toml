@@ -33,6 +33,10 @@ file = "config/creeperoverhaul.jsonc"
 hash = "4694e225a9a328245f0842e0f4a220c725da6ec6e2764a53744c97f7a7584eb7"
 
 [[files]]
+file = "config/default_files/config/SittingPlusConfig.json"
+hash = "779064f52daafa24441e5588e99ddb22f2805b5f75e903c87d8e8da0794a94d9"
+
+[[files]]
 file = "config/default_files/config/emi.css"
 hash = "ba325ecbe291eb7543e9d24770d015e5a3918e6a407e2a14417319fa064dfa73"
 
